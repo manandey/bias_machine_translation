@@ -1,0 +1,900 @@
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer
+female	8	Through her observations of galaxy rotation curves , astronomer Vera Rubin discovered the Galaxy rotation problem , now taken to be one of the key pieces of evidence for the existence of dark matter .	astronomer
+female	1	Soviet astronomer Lyudmila Georgievna Karachkina named a small planet , 3772 Piaf , in her honor .	astronomer
+female	11	During her reign , philosopher , mathematician , astrologer , and astronomer Giordano Bruno took refuge in England from the Italian Inquisition , where he published a number of his books regarding an infinite universe and topics banned by the Catholic Church .	astronomer
+female	2	A budding astronomer , she installed a telescope in her home and would travel to Almazán in August 1905 with the Société astronomique de France to observe the eclipse .	astronomer
+female	14	Based on his research into Richard de Calne ' s family history , the astronomer and writer Duncan Lunan has concluded that the girl was given the name `` Agnes '' , and that she married a royal official named Richard Barre .	astronomer
+female	25	Edith Kellman ( April 4 , 1911 , Walworth , Wisconsin – May 11 , 2007 , Walworth , Wisconsin ) was a noted American astronomer who is known for her work on the Yerkes system of stellar classification , also called the MKK system .	astronomer
+female	1	The astronomer chases her , but she eludes him .	astronomer
+female	1	The astronomer steals her writings and publishes them in his own name ; soon after , the astronomer leaves Rose Red for Pearl White .	astronomer
+female	2	An amateur astronomer , Ollerenshaw donated her telescope to Lancaster University , and an observatory there bears her name .	astronomer
+male	7	"In 499   AD , the Indian astronomer Aryabhata mentioned in his "" Aryabhatiya "" that reflected sunlight is the cause of the shining of the Moon ."	astronomer
+male	1	"The astronomer thus Latinized his name to "" Coppernicus "" , generally with two "" p""s ( in 23 of 31 documents studied ) , but later in life he used a single "" p "" ."	astronomer
+male	1	"The astronomer wrote his epochal work , "" De revolutionibus orbium cœlestium "" in Frombork ."	astronomer
+male	4	"The 2nd - century astronomer and geographer Claudius Ptolemy records three cities in the region in his "" Geography "" : Horma ( ) , Europos ( ) and Apsalos ( ) ."	astronomer
+male	17	(; 5 March 1794 – 21 October 1872 ) was a French physicist , mathematician , and astronomer who is best known for his contributions to optics .	astronomer
+male	2	Henry Andrews astronomer and astrologer , worked in Sleaford during his youth .	astronomer
+male	1	English astronomer John Flamsteed adopted the constellation in his catalogue , published in 1712 , and his subsequent atlas .	astronomer
+male	24	"He included the cluster as "" h 3708 "" in his 1864 Catalogue of Nebulae and Clusters of Stars , and Danish - Irish astronomer John Dreyer later added the cluster to his New General Catalogue as object number 6453 ."	astronomer
+male	2	"The Indian astronomer Aryabhata used a value of 3.1416 in his "" Āryabhaṭīya "" ( 499 AD ) ."	astronomer

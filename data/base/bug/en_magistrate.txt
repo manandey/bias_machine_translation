@@ -1,0 +1,1000 @@
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate
+female	2	Then the magistrate threatened torture , but she showed no fear .	magistrate
+female	23	A little later Lady Wallace was herself summoned for assaulting a woman — apparently a humble companion — and was directed by the magistrate to compound the matter .	magistrate
+female	1	The magistrate who saw her said that she had suffered a childhood that no-one should have to endure , but had still risen above it like a phoenix .	magistrate
+female	2	The presiding magistrate and her opponent praised her conduct in presenting the case .	magistrate
+female	9	Silvestro Cereto was an attorney and a king 's magistrate and her mother , Veronica di Leno , a famous businessperson .	magistrate
+female	17	Finally , on the 22nd day of the first month ( Chinese calendar date ) , the magistrate decided on her punishment .	magistrate
+female	2	When the magistrate points out that men also age , she reminds him that men can marry at any age whereas a woman has only a short time before she is considered too old .	magistrate
+female	7	She was well known locally as a magistrate , elected as a Liberal to Bucks County Council , and for her work in local charities and political associations .	magistrate
+female	6	On 2 January 1998 , a magistrate cleared her extradition to Germany .	magistrate
+female	1	The magistrate rejected Franks ' s evidence that she had been unable to comply with a final notice because she could not get the relevant details .	magistrate
+male	6	Two years later , the district magistrate banned his entry into Malebennur and surrounding areas .	magistrate
+male	5	"The territory in which a magistrate can effectively enforce his commands "" , while the term "" "" imperator "" "" was originally an honorific meaning "" commander "" ."	magistrate
+male	11	When it was time to call a vote , the presiding magistrate could bring up whatever proposals -LRB- in whatever order -RRB- he wished , and every vote was between a proposal and its negative .	magistrate
+male	12	The most notable murder was in June 1922 , when a local magistrate James Woulfe - Flanagan was shot dead in front of his family while leaving Mass at Newry Cathedral .	magistrate
+male	26	"Will any [ public ] meeting ever be permitted to express an opinion adverse to the existing Administration , when "" one "" time - serving magistrate may dissolve it at his pleasure — the death blow is given to that right , which never can be exercised efficaciously or in my opinion "" constitutionally "" , but when exercised "" en masse "" ."	magistrate
+male	1	Resident magistrate Joseph Strelley Harris also paid Wroth from his own salary to be his personal clerk .	magistrate
+male	11	Thornton knows that Margaret lied , but in his capacity as magistrate declares the case closed to save her from possible perjury .	magistrate
+male	3	The local Roman magistrate , angry at this garrison for having earlier pillaged his suburban villa , armed people from the city and stirred them against the garrison .	magistrate
+male	14	In 1816 , fourteen years after he retired from politics , he was named magistrate .	magistrate
+male	1	The magistrate has Carlo imprisoned , and he is about to be convicted when Madame Fritz runs in with some documents proving that he is Catherine ’s brother .	magistrate

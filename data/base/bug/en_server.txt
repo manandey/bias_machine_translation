@@ -1,0 +1,700 @@
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server
+female	7	If Alice contracts the virus , the server can trace her contacts via Bob 's uploaded contact records and notify her of the infection of a person with whom she had contact .	server
+female	10	Alice is now identified as having COVID-19 , and the server can identify her encrypted values and runs a homomorphic difference on the timestamps and location ( Figure 9 ) .	server
+female	19	According to a Clinton campaign official , this ensured that taxpayer dollars would not be spent on a private server that was shared by Clinton , her husband and their daughter , as well as several aides to the former president .	server
+female	1	The server was set up in her home in Chappaqua , New York .	server
+female	13	Dr. Kuroda speculates that the data being transmitted between the eyePod and his server in Tokyo is being interpreted by her optic nerve , allowing her to see this .	server
+female	54	The State Department and Intelligence Community ( IC ) inspector generals ' discovery of four emails containing classified information , out of a random sample of 40 , prompted them to make a security referral to the FBI 's counterintelligence office , to alert authorities that classified information was being kept on Clinton 's server and by her lawyer on a thumb drive .	server
+female	1	The server was more interested in comparing her nail varnish with a colleague than she was in attending to us , so when the bill came , I paid it in cash , and left her a single red cent for a tip .	server
+female	31	For example , if http://www.example.com/id/alice identifies a person , Alice , then it would be inappropriate for a server to respond to a GET request with 200 OK , as the server could not deliver Alice herself .	server
+male	13	In response to the webcomic 's increasing popularity , Huyler built a stronger server himself .	server
+male	6	The plot centers on a process server and his marijuana dealer as they are forced to flee from hitmen and a corrupt police officer after witnessing them commit a murder .	server
+male	25	The players will throw in the same way as when measuring where the branch touches the ground and the one that flies the furthest the server puts his branch .	server
+male	9	With the return of the Stuarts the time - server turned his coat , and his verses were now as extravagant in praise of the king as they had been of the Protector .	server
+male	25	The server used to test the game was an old computer and the main programmer , coded almost everything using remote access to the test server and his own personal computer , then with limited internet access .	server
+male	0	"Server received a call from his agent for an audition for "" All That "" ."	server

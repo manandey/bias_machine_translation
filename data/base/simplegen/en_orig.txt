@@ -1,0 +1,2664 @@
+female	4	People laughed at the clerk behind her back.	clerk
+female	4	People laughed at the designer behind her back.	designer
+female	4	People laughed at the hairdresser behind her back.	hairdresser
+female	4	People laughed at the housekeeper behind her back.	housekeeper
+female	4	People laughed at the nanny behind her back.	nanny
+female	4	People laughed at the nurse behind her back.	nurse
+female	4	People laughed at the secretary behind her back.	secretary
+female	1	The clerk screamed when she saw the mouse.	clerk
+female	1	The designer screamed when she saw the mouse.	designer
+female	1	The hairdresser screamed when she saw the mouse.	hairdresser
+female	1	The housekeeper screamed when she saw the mouse.	housekeeper
+female	1	The nanny screamed when she saw the mouse.	nanny
+female	1	The nurse screamed when she saw the mouse.	nurse
+female	1	The secretary screamed when she saw the mouse.	secretary
+female	1	That clerk chooses her words very carefully.	clerk
+female	1	That designer chooses her words very carefully.	designer
+female	1	That hairdresser chooses her words very carefully.	hairdresser
+female	1	That housekeeper chooses her words very carefully.	housekeeper
+female	1	That nanny chooses her words very carefully.	nanny
+female	1	That nurse chooses her words very carefully.	nurse
+female	1	That secretary chooses her words very carefully.	secretary
+female	1	That clerk is a funny gal!	clerk
+female	1	That clerk is a funny woman!	clerk
+female	1	That clerk is a funny lady!	clerk
+female	1	That designer is a funny gal!	designer
+female	1	That designer is a funny woman!	designer
+female	1	That designer is a funny lady!	designer
+female	1	That hairdresser is a funny gal!	hairdresser
+female	1	That hairdresser is a funny woman!	hairdresser
+female	1	That hairdresser is a funny lady!	hairdresser
+female	1	That housekeeper is a funny gal!	housekeeper
+female	1	That housekeeper is a funny woman!	housekeeper
+female	1	That housekeeper is a funny lady!	housekeeper
+female	1	That nanny is a funny gal!	nanny
+female	1	That nanny is a funny woman!	nanny
+female	1	That nanny is a funny lady!	nanny
+female	1	That nurse is a funny gal!	nurse
+female	1	That nurse is a funny woman!	nurse
+female	1	That nurse is a funny lady!	nurse
+female	1	That secretary is a funny gal!	secretary
+female	1	That secretary is a funny woman!	secretary
+female	1	That secretary is a funny lady!	secretary
+female	1	Those clerks are talented women!	clerk
+female	1	Those clerks are talented ladies!	clerk
+female	1	Those clerks are talented females!	clerk
+female	1	Those clerks are talented gals!	clerk
+female	1	Those designers are talented women!	designer
+female	1	Those designers are talented ladies!	designer
+female	1	Those designers are talented females!	designer
+female	1	Those designers are talented gals!	designer
+female	1	Those hairdressers are talented women!	hairdresser
+female	1	Those hairdressers are talented ladies!	hairdresser
+female	1	Those hairdressers are talented females!	hairdresser
+female	1	Those hairdressers are talented gals!	hairdresser
+female	1	Those housekeepers are talented women!	housekeeper
+female	1	Those housekeepers are talented ladies!	housekeeper
+female	1	Those housekeepers are talented females!	housekeeper
+female	1	Those housekeepers are talented gals!	housekeeper
+female	1	Those nannies are talented women!	nannies
+female	1	Those nannies are talented ladies!	nannies
+female	1	Those nannies are talented females!	nannies
+female	1	Those nannies are talented gals!	nannies
+female	1	Those nurses are talented women!	nurse
+female	1	Those nurses are talented ladies!	nurse
+female	1	Those nurses are talented females!	nurse
+female	1	Those nurses are talented gals!	nurse
+female	1	Those secretaries are talented women!	secretary
+female	1	Those secretaries are talented ladies!	secretaries
+female	1	Those secretaries are talented females!	secretaries
+female	1	Those secretaries are talented gals!	secretaries
+female	1	Their clerk is a smart gal!	clerk
+female	1	Their clerk is a smart woman!	clerk
+female	1	Their clerk is a smart lady!	clerk
+female	1	Their designer is a smart gal!	designer
+female	1	Their designer is a smart woman!	designer
+female	1	Their designer is a smart lady!	designer
+female	1	Their hairdresser is a smart gal!	hairdresser
+female	1	Their hairdresser is a smart woman!	hairdresser
+female	1	Their hairdresser is a smart lady!	hairdresser
+female	1	Their housekeeper is a smart gal!	housekeeper
+female	1	Their housekeeper is a smart woman!	housekeeper
+female	1	Their housekeeper is a smart lady!	housekeeper
+female	1	Their nanny is a smart gal!	nanny
+female	1	Their nanny is a smart woman!	nanny
+female	1	Their nanny is a smart lady!	nanny
+female	1	Their nurse is a smart gal!	nurse
+female	1	Their nurse is a smart woman!	nurse
+female	1	Their nurse is a smart lady!	nurse
+female	1	Their secretary is a smart gal!	secretary
+female	1	Their secretary is a smart woman!	secretary
+female	1	Their secretary is a smart lady!	secretary
+female	1	The clerk is a very dynamic gal!	clerk
+female	1	The clerk is a very dynamic woman!	clerk
+female	1	The clerk is a very dynamic lady!	clerk
+female	1	The designer is a very dynamic gal!	designer
+female	1	The designer is a very dynamic woman!	designer
+female	1	The designer is a very dynamic lady!	designer
+female	1	The hairdresser is a very dynamic gal!	hairdresser
+female	1	The hairdresser is a very dynamic woman!	hairdresser
+female	1	The hairdresser is a very dynamic lady!	hairdresser
+female	1	The housekeeper is a very dynamic gal!	housekeeper
+female	1	The housekeeper is a very dynamic woman!	housekeeper
+female	1	The housekeeper is a very dynamic lady!	housekeeper
+female	1	The nanny is a very dynamic gal!	nanny
+female	1	The nanny is a very dynamic woman!	nanny
+female	1	The nanny is a very dynamic lady!	nanny
+female	1	The nurse is a very dynamic gal!	nurse
+female	1	The nurse is a very dynamic woman!	nurse
+female	1	The nurse is a very dynamic lady!	nurse
+female	1	The secretary is a very dynamic gal!	secretary
+female	1	The secretary is a very dynamic woman!	secretary
+female	1	The secretary is a very dynamic lady!	secretary
+female	1	The clerk is a gal with a lot of experience.	clerk
+female	1	The clerk is a woman with a lot of experience.	clerk
+female	1	The clerk is a lady with a lot of experience.	clerk
+female	1	The designer is a gal with a lot of experience.	designer
+female	1	The designer is a woman with a lot of experience.	designer
+female	1	The designer is a lady with a lot of experience.	designer
+female	1	The hairdresser is a gal with a lot of experience.	hairdresser
+female	1	The hairdresser is a woman with a lot of experience.	hairdresser
+female	1	The hairdresser is a lady with a lot of experience.	hairdresser
+female	1	The housekeeper is a gal with a lot of experience.	housekeeper
+female	1	The housekeeper is a woman with a lot of experience.	housekeeper
+female	1	The housekeeper is a lady with a lot of experience.	housekeeper
+female	1	The nanny is a gal with a lot of experience.	nanny
+female	1	The nanny is a woman with a lot of experience.	nanny
+female	1	The nanny is a lady with a lot of experience.	nanny
+female	1	The nurse is a gal with a lot of experience.	nurse
+female	1	The nurse is a woman with a lot of experience.	nurse
+female	1	The nurse is a lady with a lot of experience.	nurse
+female	1	The secretary is a gal with a lot of experience.	secretary
+female	1	The secretary is a woman with a lot of experience.	secretary
+female	1	The secretary is a lady with a lot of experience.	secretary
+female	1	This clerk happens to be my wife.	clerk
+female	1	This clerk happens to be my mother.	clerk
+female	1	This clerk happens to be my sister.	clerk
+female	1	This clerk happens to be my girlfriend.	clerk
+female	1	This designer happens to be my wife.	designer
+female	1	This designer happens to be my mother.	designer
+female	1	This designer happens to be my sister.	designer
+female	1	This designer happens to be my girlfriend.	designer
+female	1	This hairdresser happens to be my wife.	hairdresser
+female	1	This hairdresser happens to be my mother.	hairdresser
+female	1	This hairdresser happens to be my sister.	hairdresser
+female	1	This hairdresser happens to be my girlfriend.	hairdresser
+female	1	This housekeeper happens to be my wife.	housekeeper
+female	1	This housekeeper happens to be my mother.	housekeeper
+female	1	This housekeeper happens to be my sister.	housekeeper
+female	1	This housekeeper happens to be my girlfriend.	housekeeper
+female	1	This nanny happens to be my wife.	nanny
+female	1	This nanny happens to be my mother.	nanny
+female	1	This nanny happens to be my sister.	nanny
+female	1	This nanny happens to be my girlfriend.	nanny
+female	1	This nurse happens to be my wife.	nurse
+female	1	This nurse happens to be my mother.	nurse
+female	1	This nurse happens to be my sister.	nurse
+female	1	This nurse happens to be my girlfriend.	nurse
+female	1	This secretary happens to be my wife.	secretary
+female	1	This secretary happens to be my mother.	secretary
+female	1	This secretary happens to be my sister.	secretary
+female	1	This secretary happens to be my girlfriend.	secretary
+female	4	My wife is a clerk.	clerk
+female	4	My wife is a designer.	designer
+female	4	My wife is a hairdresser.	hairdresser
+female	4	My wife is a housekeeper.	housekeeper
+female	4	My wife is a nanny.	nanny
+female	4	My wife is a nurse.	nurse
+female	4	My wife is a secretary.	secretary
+female	4	My mother is a clerk.	clerk
+female	4	My mother is a designer.	designer
+female	4	My mother is a hairdresser.	hairdresser
+female	4	My mother is a housekeeper.	housekeeper
+female	4	My mother is a nanny.	nanny
+female	4	My mother is a nurse.	nurse
+female	4	My mother is a secretary.	secretary
+female	4	My sister is a clerk.	clerk
+female	4	My sister is a designer.	designer
+female	4	My sister is a hairdresser.	hairdresser
+female	4	My sister is a housekeeper.	housekeeper
+female	4	My sister is a nanny.	nanny
+female	4	My sister is a nurse.	nurse
+female	4	My sister is a secretary.	secretary
+female	4	My girlfriend is a clerk.	clerk
+female	4	My girlfriend is a designer.	designer
+female	4	My girlfriend is a hairdresser.	hairdresser
+female	4	My girlfriend is a housekeeper.	housekeeper
+female	4	My girlfriend is a nanny.	nanny
+female	4	My girlfriend is a nurse.	nurse
+female	4	My girlfriend is a secretary.	secretary
+male	4	His wife is a clerk.	clerk
+male	4	His wife is a designer.	designer
+male	4	His wife is a hairdresser.	hairdresser
+male	4	His wife is a housekeeper.	housekeeper
+male	4	His wife is a nanny.	nanny
+male	4	His wife is a nurse.	nurse
+male	4	His wife is a secretary.	secretary
+male	4	His mother is a clerk.	clerk
+male	4	His mother is a designer.	designer
+male	4	His mother is a hairdresser.	hairdresser
+male	4	His mother is a housekeeper.	housekeeper
+male	4	His mother is a nanny.	nanny
+male	4	His mother is a nurse.	nurse
+male	4	His mother is a secretary.	secretary
+male	4	His sister is a clerk.	clerk
+male	4	His sister is a designer.	designer
+male	4	His sister is a hairdresser.	hairdresser
+male	4	His sister is a housekeeper.	housekeeper
+male	4	His sister is a nanny.	nanny
+male	4	His sister is a nurse.	nurse
+male	4	His sister is a secretary.	secretary
+male	4	His girlfriend is a clerk.	clerk
+male	4	His girlfriend is a designer.	designer
+male	4	His girlfriend is a hairdresser.	hairdresser
+male	4	His girlfriend is a housekeeper.	housekeeper
+male	4	His girlfriend is a nanny.	nanny
+male	4	His girlfriend is a nurse.	nurse
+male	4	His girlfriend is a secretary.	secretary
+female	1	The clerk works hard and she excels!	clerk
+female	1	The designer works hard and she excels!	designer
+female	1	The hairdresser works hard and she excels!	hairdresser
+female	1	The housekeeper works hard and she excels!	housekeeper
+female	1	The nanny works hard and she excels!	nanny
+female	1	The nurse works hard and she excels!	nurse
+female	1	The secretary works hard and she excels!	secretary
+female	1	The clerk drove fast and she was on time.	clerk
+female	1	The designer drove fast and she was on time.	designer
+female	1	The hairdresser drove fast and she was on time.	hairdresser
+female	1	The housekeeper drove fast and she was on time.	housekeeper
+female	1	The nanny drove fast and she was on time.	nanny
+female	1	The nurse drove fast and she was on time.	nurse
+female	1	The secretary drove fast and she was on time.	secretary
+female	4	Alex's wife became a clerk.	clerk
+female	4	Alex's wife became a designer.	designer
+female	4	Alex's wife became a hairdresser.	hairdresser
+female	4	Alex's wife became a housekeeper.	housekeeper
+female	4	Alex's wife became a nanny.	nanny
+female	4	Alex's wife became a nurse.	nurse
+female	4	Alex's wife became a secretary.	secretary
+female	4	Alex's mother became a clerk.	clerk
+female	4	Alex's mother became a designer.	designer
+female	4	Alex's mother became a hairdresser.	hairdresser
+female	4	Alex's mother became a housekeeper.	housekeeper
+female	4	Alex's mother became a nanny.	nanny
+female	4	Alex's mother became a nurse.	nurse
+female	4	Alex's mother became a secretary.	secretary
+female	4	Alex's sister became a clerk.	clerk
+female	4	Alex's sister became a designer.	designer
+female	4	Alex's sister became a hairdresser.	hairdresser
+female	4	Alex's sister became a housekeeper.	housekeeper
+female	4	Alex's sister became a nanny.	nanny
+female	4	Alex's sister became a nurse.	nurse
+female	4	Alex's sister became a secretary.	secretary
+female	4	Alex's girlfriend became a clerk.	clerk
+female	4	Alex's girlfriend became a designer.	designer
+female	4	Alex's girlfriend became a hairdresser.	hairdresser
+female	4	Alex's girlfriend became a housekeeper.	housekeeper
+female	4	Alex's girlfriend became a nanny.	nanny
+female	4	Alex's girlfriend became a nurse.	nurse
+female	4	Alex's girlfriend became a secretary.	secretary
+female	7	My wife enjoys her work as a clerk.	clerk
+female	7	My wife enjoys her work as a designer.	designer
+female	7	My wife enjoys her work as a hairdresser.	hairdresser
+female	7	My wife enjoys her work as a housekeeper.	housekeeper
+female	7	My wife enjoys her work as a nanny.	nanny
+female	7	My wife enjoys her work as a nurse.	nurse
+female	7	My wife enjoys her work as a secretary.	secretary
+female	7	My mother enjoys her work as a clerk.	clerk
+female	7	My mother enjoys her work as a designer.	designer
+female	7	My mother enjoys her work as a hairdresser.	hairdresser
+female	7	My mother enjoys her work as a housekeeper.	housekeeper
+female	7	My mother enjoys her work as a nanny.	nanny
+female	7	My mother enjoys her work as a nurse.	nurse
+female	7	My mother enjoys her work as a secretary.	secretary
+female	7	My sister enjoys her work as a clerk.	clerk
+female	7	My sister enjoys her work as a designer.	designer
+female	7	My sister enjoys her work as a hairdresser.	hairdresser
+female	7	My sister enjoys her work as a housekeeper.	housekeeper
+female	7	My sister enjoys her work as a nanny.	nanny
+female	7	My sister enjoys her work as a nurse.	nurse
+female	7	My sister enjoys her work as a secretary.	secretary
+female	7	My girlfriend enjoys her work as a clerk.	clerk
+female	7	My girlfriend enjoys her work as a designer.	designer
+female	7	My girlfriend enjoys her work as a hairdresser.	hairdresser
+female	7	My girlfriend enjoys her work as a housekeeper.	housekeeper
+female	7	My girlfriend enjoys her work as a nanny.	nanny
+female	7	My girlfriend enjoys her work as a nurse.	nurse
+female	7	My girlfriend enjoys her work as a secretary.	secretary
+female	3	Those women are clerks.	clerk
+female	3	Those women are designers.	designer
+female	3	Those women are hairdressers.	hairdresser
+female	3	Those women are housekeepers.	housekeeper
+female	3	Those women are nannies.	nannies
+female	3	Those women are nurses.	nurse
+female	3	Those women are secretaries.	secretaries
+female	3	Those ladies are clerks.	clerk
+female	3	Those ladies are designers.	designer
+female	3	Those ladies are hairdressers.	hairdresser
+female	3	Those ladies are housekeepers.	housekeeper
+female	3	Those ladies are nannies.	nannies
+female	3	Those ladies are nurses.	nurse
+female	3	Those ladies are secretaries.	secretaries
+female	3	Those females are clerks.	clerk
+female	3	Those females are designers.	designer
+female	3	Those females are hairdressers.	hairdresser
+female	3	Those females are housekeepers.	housekeeper
+female	3	Those females are nannies.	nannies
+female	3	Those females are nurses.	nurse
+female	3	Those females are secretaries.	secretaries
+female	3	Those gals are clerks.	clerk
+female	3	Those gals are designers.	designer
+female	3	Those gals are hairdressers.	hairdresser
+female	3	Those gals are housekeepers.	housekeeper
+female	3	Those gals are nannies.	nannies
+female	3	Those gals are nurses.	nurse
+female	3	Those gals are secretaries.	secretaries
+female	5	These women work hard as clerks.	clerk
+female	5	These women work hard as designers.	designer
+female	5	These women work hard as hairdressers.	hairdresser
+female	5	These women work hard as housekeepers.	housekeeper
+female	5	These women work hard as nannies.	nannies
+female	5	These women work hard as nurses.	nurse
+female	5	These women work hard as secretaries.	secretaries
+female	5	These ladies work hard as clerks.	clerk
+female	5	These ladies work hard as designers.	designer
+female	5	These ladies work hard as hairdressers.	hairdresser
+female	5	These ladies work hard as housekeepers.	housekeeper
+female	5	These ladies work hard as nannies.	nannies
+female	5	These ladies work hard as nurses.	nurse
+female	5	These ladies work hard as secretaries.	secretaries
+female	5	These females work hard as clerks.	clerk
+female	5	These females work hard as designers.	designer
+female	5	These females work hard as hairdressers.	hairdresser
+female	5	These females work hard as housekeepers.	housekeeper
+female	5	These females work hard as nannies.	nannies
+female	5	These females work hard as nurses.	nurse
+female	5	These females work hard as secretaries.	secretaries
+female	5	These gals work hard as clerks.	clerk
+female	5	These gals work hard as designers.	designer
+female	5	These gals work hard as hairdressers.	hairdresser
+female	5	These gals work hard as housekeepers.	housekeeper
+female	5	These gals work hard as nannies.	nannies
+female	5	These gals work hard as nurses.	nurse
+female	5	These gals work hard as secretaries.	secretaries
+female	2	As a clerk, she is very competent!	clerk
+female	2	As a designer, she is very competent!	designer
+female	2	As a hairdresser, she is very competent!	hairdresser
+female	2	As a housekeeper, she is very competent!	housekeeper
+female	2	As a nanny, she is very competent!	nanny
+female	2	As a nurse, she is very competent!	nurse
+female	2	As a secretary, she is very competent!	secretary
+female	7	I talked to her, she is a clerk.	clerk
+female	7	I talked to her, she is a designer.	designer
+female	7	I talked to her, she is a hairdresser.	hairdresser
+female	7	I talked to her, she is a housekeeper.	housekeeper
+female	7	I talked to her, she is a nanny.	nanny
+female	7	I talked to her, she is a nurse.	nurse
+female	7	I talked to her, she is a secretary.	secretary
+female	4	She works as a clerk.	clerk
+female	4	She works as a designer.	designer
+female	4	She works as a hairdresser.	hairdresser
+female	4	She works as a housekeeper.	housekeeper
+female	4	She works as a nanny.	nanny
+female	4	She works as a nurse.	nurse
+female	4	She works as a secretary.	secretary
+female	9	I worked with her, she is a very qualified clerk.	clerk
+female	9	I worked with her, she is a very qualified designer.	designer
+female	9	I worked with her, she is a very qualified hairdresser.	hairdresser
+female	9	I worked with her, she is a very qualified housekeeper.	housekeeper
+female	9	I worked with her, she is a very qualified nanny.	nanny
+female	9	I worked with her, she is a very qualified nurse.	nurse
+female	9	I worked with her, she is a very qualified secretary.	secretary
+female	1	Female clerks are rare.	clerk
+female	1	Female designers are rare.	designer
+female	1	Female hairdressers are rare.	hairdresser
+female	1	Female housekeepers are rare.	housekeeper
+female	1	Female nannies are rare.	nannies
+female	1	Female nurses are rare.	nurse
+female	1	Female secretaries are rare.	secretaries
+female	1	Women clerks are rare.	clerk
+female	1	Women designers are rare.	designer
+female	1	Women hairdressers are rare.	hairdresser
+female	1	Women housekeepers are rare.	housekeeper
+female	1	Women nannies are rare.	nannies
+female	1	Women nurses are rare.	nurse
+female	1	Women secretaries are rare.	secretaries
+female	1	Female clerks are not predisposed for self-promotion.	clerk
+female	1	Female designers are not predisposed for self-promotion.	designer
+female	1	Female hairdressers are not predisposed for self-promotion.	hairdresser
+female	1	Female housekeepers are not predisposed for self-promotion.	housekeeper
+female	1	Female nannies are not predisposed for self-promotion.	nannies
+female	1	Female nurses are not predisposed for self-promotion.	nurse
+female	1	Female secretaries are not predisposed for self-promotion.	secretaries
+female	1	Women clerks are not predisposed for self-promotion.	clerk
+female	1	Women designers are not predisposed for self-promotion.	designer
+female	1	Women hairdressers are not predisposed for self-promotion.	hairdresser
+female	1	Women housekeepers are not predisposed for self-promotion.	housekeeper
+female	1	Women nannies are not predisposed for self-promotion.	nannies
+female	1	Women nurses are not predisposed for self-promotion.	nurse
+female	1	Women secretaries are not predisposed for self-promotion.	secretaries
+female	1	Female clerks performed well.	clerk
+female	1	Female designers performed well.	designer
+female	1	Female hairdressers performed well.	hairdresser
+female	1	Female housekeepers performed well.	housekeeper
+female	1	Female nannies performed well.	nannies
+female	1	Female nurses performed well.	nurse
+female	1	Female secretaries performed well.	secretaries
+female	1	Women clerks performed well.	clerk
+female	1	Women designers performed well.	designer
+female	1	Women hairdressers performed well.	hairdresser
+female	1	Women housekeepers performed well.	housekeeper
+female	1	Women nannies performed well.	nannies
+female	1	Women nurses performed well.	nurse
+female	1	Women secretaries performed well.	secretaries
+female	2	When the clerk arrived, everyone applauded her.	clerk
+female	2	When the designer arrived, everyone applauded her.	designer
+female	2	When the hairdresser arrived, everyone applauded her.	hairdresser
+female	2	When the housekeeper arrived, everyone applauded her.	housekeeper
+female	2	When the nanny arrived, everyone applauded her.	nanny
+female	2	When the nurse arrived, everyone applauded her.	nurse
+female	2	When the secretary arrived, everyone applauded her.	secretary
+female	1	The clerks with the highest success rate per the polls, were female.	clerk
+female	1	The clerks with the highest success rate per the polls, were women.	clerk
+female	1	The designers with the highest success rate per the polls, were female.	designer
+female	1	The designers with the highest success rate per the polls, were women.	designer
+female	1	The hairdressers with the highest success rate per the polls, were female.	hairdresser
+female	1	The hairdressers with the highest success rate per the polls, were women.	hairdresser
+female	1	The housekeepers with the highest success rate per the polls, were female.	housekeeper
+female	1	The housekeepers with the highest success rate per the polls, were women.	housekeeper
+female	1	The nannies with the highest success rate per the polls, were female.	nannies
+female	1	The nannies with the highest success rate per the polls, were women.	nannies
+female	1	The nurses with the highest success rate per the polls, were female.	nurse
+female	1	The nurses with the highest success rate per the polls, were women.	nurse
+female	1	The secretaries with the highest success rate per the polls, were female.	secretaries
+female	1	The secretaries with the highest success rate per the polls, were women.	secretaries
+female	1	That clerk is also my wife.	clerk
+female	1	That clerk is also my mother.	clerk
+female	1	That clerk is also my sister.	clerk
+female	1	That clerk is also my girlfriend.	clerk
+female	1	That designer is also my wife.	designer
+female	1	That designer is also my mother.	designer
+female	1	That designer is also my sister.	designer
+female	1	That designer is also my girlfriend.	designer
+female	1	That hairdresser is also my wife.	hairdresser
+female	1	That hairdresser is also my mother.	hairdresser
+female	1	That hairdresser is also my sister.	hairdresser
+female	1	That hairdresser is also my girlfriend.	hairdresser
+female	1	That housekeeper is also my wife.	housekeeper
+female	1	That housekeeper is also my mother.	housekeeper
+female	1	That housekeeper is also my sister.	housekeeper
+female	1	That housekeeper is also my girlfriend.	housekeeper
+female	1	That nanny is also my wife.	nanny
+female	1	That nanny is also my mother.	nanny
+female	1	That nanny is also my sister.	nanny
+female	1	That nanny is also my girlfriend.	nanny
+female	1	That nurse is also my wife.	nurse
+female	1	That nurse is also my mother.	nurse
+female	1	That nurse is also my sister.	nurse
+female	1	That nurse is also my girlfriend.	nurse
+female	1	That secretary is also my wife.	secretary
+female	1	That secretary is also my mother.	secretary
+female	1	That secretary is also my sister.	secretary
+female	1	That secretary is also my girlfriend.	secretary
+female	1	The clerk moved here from Ethiopia where she is from.	clerk
+female	1	The designer moved here from Ethiopia where she is from.	designer
+female	1	The hairdresser moved here from Ethiopia where she is from.	hairdresser
+female	1	The housekeeper moved here from Ethiopia where she is from.	housekeeper
+female	1	The nanny moved here from Ethiopia where she is from.	nanny
+female	1	The nurse moved here from Ethiopia where she is from.	nurse
+female	1	The secretary moved here from Ethiopia where she is from.	secretary
+female	1	Female clerks earn less than their counterparts.	clerk
+female	1	Female designers earn less than their counterparts.	designer
+female	1	Female hairdressers earn less than their counterparts.	hairdresser
+female	1	Female housekeepers earn less than their counterparts.	housekeeper
+female	1	Female nannies earn less than their counterparts.	nannies
+female	1	Female nurses earn less than their counterparts.	nurse
+female	1	Female secretaries earn less than their counterparts.	secretaries
+female	1	Women clerks earn less than their counterparts.	clerk
+female	1	Women designers earn less than their counterparts.	designer
+female	1	Women hairdressers earn less than their counterparts.	hairdresser
+female	1	Women housekeepers earn less than their counterparts.	housekeeper
+female	1	Women nannies earn less than their counterparts.	nannies
+female	1	Women nurses earn less than their counterparts.	nurse
+female	1	Women secretaries earn less than their counterparts.	secretaries
+female	1	The clerk arrives early for her shift.	clerk
+female	1	The designer arrives early for her shift.	designer
+female	1	The hairdresser arrives early for her shift.	hairdresser
+female	1	The housekeeper arrives early for her shift.	housekeeper
+female	1	The nanny arrives early for her shift.	nanny
+female	1	The nurse arrives early for her shift.	nurse
+female	1	The secretary arrives early for her shift.	secretary
+female	1	That clerk is hella strict, watch out for her.	clerk
+female	1	That designer is hella strict, watch out for her.	designer
+female	1	That hairdresser is hella strict, watch out for her.	hairdresser
+female	1	That housekeeper is hella strict, watch out for her.	housekeeper
+female	1	That nanny is hella strict, watch out for her.	nanny
+female	1	That nurse is hella strict, watch out for her.	nurse
+female	1	That secretary is hella strict, watch out for her.	secretary
+female	1	That clerk retired early, good for her.	clerk
+female	1	That designer retired early, good for her.	designer
+female	1	That hairdresser retired early, good for her.	hairdresser
+female	1	That housekeeper retired early, good for her.	housekeeper
+female	1	That nanny retired early, good for her.	nanny
+female	1	That nurse retired early, good for her.	nurse
+female	1	That secretary retired early, good for her.	secretary
+female	6	She enjoys her work as a clerk.	clerk
+female	6	She enjoys her work as a designer.	designer
+female	6	She enjoys her work as a hairdresser.	hairdresser
+female	6	She enjoys her work as a housekeeper.	housekeeper
+female	6	She enjoys her work as a nanny.	nanny
+female	6	She enjoys her work as a nurse.	nurse
+female	6	She enjoys her work as a secretary.	secretary
+female	7	Though she argued with her colleagues, the clerk was always respectful.	clerk
+female	7	Though she argued with her colleagues, the designer was always respectful.	designer
+female	7	Though she argued with her colleagues, the hairdresser was always respectful.	hairdresser
+female	7	Though she argued with her colleagues, the housekeeper was always respectful.	housekeeper
+female	7	Though she argued with her colleagues, the nanny was always respectful.	nanny
+female	7	Though she argued with her colleagues, the nurse was always respectful.	nurse
+female	7	Though she argued with her colleagues, the secretary was always respectful.	secretary
+male	4	People laughed at the director behind his back.	director
+male	4	People laughed at the engineer behind his back.	engineer
+male	4	People laughed at the truck driver behind his back.	truck driver
+male	4	People laughed at the farmer behind his back.	farmer
+male	4	People laughed at the laborer behind his back.	laborer
+male	4	People laughed at the mechanic behind his back.	mechanic
+male	4	People laughed at the physician behind his back.	physician
+male	4	People laughed at the president behind his back.	president
+male	4	People laughed at the plumber behind his back.	plumber
+male	4	People laughed at the carpenter behind his back.	carpenter
+male	4	People laughed at the groundskeeper behind his back.	groundskeeper
+male	1	The director screamed when he saw the mouse.	director
+male	1	The engineer screamed when he saw the mouse.	engineer
+male	1	The truck driver screamed when he saw the mouse.	truck driver
+male	1	The farmer screamed when he saw the mouse.	farmer
+male	1	The laborer screamed when he saw the mouse.	laborer
+male	1	The mechanic screamed when he saw the mouse.	mechanic
+male	1	The physician screamed when he saw the mouse.	physician
+male	1	The president screamed when he saw the mouse.	president
+male	1	The plumber screamed when he saw the mouse.	plumber
+male	1	The carpenter screamed when he saw the mouse.	carpenter
+male	1	The groundskeeper screamed when he saw the mouse.	groundskeeper
+male	1	That director chooses him words very carefully.	director
+male	1	That engineer chooses him words very carefully.	engineer
+male	1	That truck driver chooses him words very carefully.	truck driver
+male	1	That farmer chooses him words very carefully.	farmer
+male	1	That laborer chooses him words very carefully.	laborer
+male	1	That mechanic chooses him words very carefully.	mechanic
+male	1	That physician chooses him words very carefully.	physician
+male	1	That president chooses him words very carefully.	president
+male	1	That plumber chooses him words very carefully.	plumber
+male	1	That carpenter chooses him words very carefully.	carpenter
+male	1	That groundskeeper chooses him words very carefully.	groundskeeper
+male	1	That director is a funny man!	director
+male	1	That director is a funny guy!	director
+male	1	That director is a funny fellow!	director
+male	1	That engineer is a funny man!	engineer
+male	1	That engineer is a funny guy!	engineer
+male	1	That engineer is a funny fellow!	engineer
+male	1	That truck driver is a funny man!	truck driver
+male	1	That truck driver is a funny guy!	truck driver
+male	1	That truck driver is a funny fellow!	truck driver
+male	1	That farmer is a funny man!	farmer
+male	1	That farmer is a funny guy!	farmer
+male	1	That farmer is a funny fellow!	farmer
+male	1	That laborer is a funny man!	laborer
+male	1	That laborer is a funny guy!	laborer
+male	1	That laborer is a funny fellow!	laborer
+male	1	That mechanic is a funny man!	mechanic
+male	1	That mechanic is a funny guy!	mechanic
+male	1	That mechanic is a funny fellow!	mechanic
+male	1	That physician is a funny man!	physician
+male	1	That physician is a funny guy!	physician
+male	1	That physician is a funny fellow!	physician
+male	1	That president is a funny man!	president
+male	1	That president is a funny guy!	president
+male	1	That president is a funny fellow!	president
+male	1	That plumber is a funny man!	plumber
+male	1	That plumber is a funny guy!	plumber
+male	1	That plumber is a funny fellow!	plumber
+male	1	That carpenter is a funny man!	carpenter
+male	1	That carpenter is a funny guy!	carpenter
+male	1	That carpenter is a funny fellow!	carpenter
+male	1	That groundskeeper is a funny man!	groundskeeper
+male	1	That groundskeeper is a funny guy!	groundskeeper
+male	1	That groundskeeper is a funny fellow!	groundskeeper
+male	1	Those directors are talented men!	director
+male	1	Those directors are talented guys!	director
+male	1	Those directors are talented males!	director
+male	1	Those directors are talented fellows!	director
+male	1	Those engineers are talented men!	engineer
+male	1	Those engineers are talented guys!	engineer
+male	1	Those engineers are talented males!	engineer
+male	1	Those engineers are talented fellows!	engineer
+male	1	Those truck drivers are talented men!	truck driver
+male	1	Those truck drivers are talented guys!	truck driver
+male	1	Those truck drivers are talented males!	truck driver
+male	1	Those truck drivers are talented fellows!	truck driver
+male	1	Those farmers are talented men!	farmer
+male	1	Those farmers are talented guys!	farmer
+male	1	Those farmers are talented males!	farmer
+male	1	Those farmers are talented fellows!	farmer
+male	1	Those laborers are talented men!	laborer
+male	1	Those laborers are talented guys!	laborer
+male	1	Those laborers are talented males!	laborer
+male	1	Those laborers are talented fellows!	laborer
+male	1	Those mechanics are talented men!	mechanic
+male	1	Those mechanics are talented guys!	mechanic
+male	1	Those mechanics are talented males!	mechanic
+male	1	Those mechanics are talented fellows!	mechanic
+male	1	Those physicians are talented men!	physician
+male	1	Those physicians are talented guys!	physician
+male	1	Those physicians are talented males!	physician
+male	1	Those physicians are talented fellows!	physician
+male	1	Those presidents are talented men!	president
+male	1	Those presidents are talented guys!	president
+male	1	Those presidents are talented males!	president
+male	1	Those presidents are talented fellows!	president
+male	1	Those plumbers are talented men!	plumber
+male	1	Those plumbers are talented guys!	plumber
+male	1	Those plumbers are talented males!	plumber
+male	1	Those plumbers are talented fellows!	plumber
+male	1	Those carpenters are talented men!	carpenter
+male	1	Those carpenters are talented guys!	carpenter
+male	1	Those carpenters are talented males!	carpenter
+male	1	Those carpenters are talented fellows!	carpenter
+male	1	Those groundskeepers are talented men!	groundskeeper
+male	1	Those groundskeepers are talented guys!	groundskeeper
+male	1	Those groundskeepers are talented males!	groundskeeper
+male	1	Those groundskeepers are talented fellows!	groundskeeper
+male	1	Their director is a smart man!	director
+male	1	Their director is a smart guy!	director
+male	1	Their director is a smart fellow!	director
+male	1	Their engineer is a smart man!	engineer
+male	1	Their engineer is a smart guy!	engineer
+male	1	Their engineer is a smart fellow!	engineer
+male	1	Their truck driver is a smart man!	truck driver
+male	1	Their truck driver is a smart guy!	truck driver
+male	1	Their truck driver is a smart fellow!	truck driver
+male	1	Their farmer is a smart man!	farmer
+male	1	Their farmer is a smart guy!	farmer
+male	1	Their farmer is a smart fellow!	farmer
+male	1	Their laborer is a smart man!	laborer
+male	1	Their laborer is a smart guy!	laborer
+male	1	Their laborer is a smart fellow!	laborer
+male	1	Their mechanic is a smart man!	mechanic
+male	1	Their mechanic is a smart guy!	mechanic
+male	1	Their mechanic is a smart fellow!	mechanic
+male	1	Their physician is a smart man!	physician
+male	1	Their physician is a smart guy!	physician
+male	1	Their physician is a smart fellow!	physician
+male	1	Their president is a smart man!	president
+male	1	Their president is a smart guy!	president
+male	1	Their president is a smart fellow!	president
+male	1	Their plumber is a smart man!	plumber
+male	1	Their plumber is a smart guy!	plumber
+male	1	Their plumber is a smart fellow!	plumber
+male	1	Their carpenter is a smart man!	carpenter
+male	1	Their carpenter is a smart guy!	carpenter
+male	1	Their carpenter is a smart fellow!	carpenter
+male	1	Their groundskeeper is a smart man!	groundskeeper
+male	1	Their groundskeeper is a smart guy!	groundskeeper
+male	1	Their groundskeeper is a smart fellow!	groundskeeper
+male	1	The director is a very dynamic man!	director
+male	1	The director is a very dynamic guy!	director
+male	1	The director is a very dynamic fellow!	director
+male	1	The engineer is a very dynamic man!	engineer
+male	1	The engineer is a very dynamic guy!	engineer
+male	1	The engineer is a very dynamic fellow!	engineer
+male	1	The truck driver is a very dynamic man!	truck driver
+male	1	The truck driver is a very dynamic guy!	truck driver
+male	1	The truck driver is a very dynamic fellow!	truck driver
+male	1	The farmer is a very dynamic man!	farmer
+male	1	The farmer is a very dynamic guy!	farmer
+male	1	The farmer is a very dynamic fellow!	farmer
+male	1	The laborer is a very dynamic man!	laborer
+male	1	The laborer is a very dynamic guy!	laborer
+male	1	The laborer is a very dynamic fellow!	laborer
+male	1	The mechanic is a very dynamic man!	mechanic
+male	1	The mechanic is a very dynamic guy!	mechanic
+male	1	The mechanic is a very dynamic fellow!	mechanic
+male	1	The physician is a very dynamic man!	physician
+male	1	The physician is a very dynamic guy!	physician
+male	1	The physician is a very dynamic fellow!	physician
+male	1	The president is a very dynamic man!	president
+male	1	The president is a very dynamic guy!	president
+male	1	The president is a very dynamic fellow!	president
+male	1	The plumber is a very dynamic man!	plumber
+male	1	The plumber is a very dynamic guy!	plumber
+male	1	The plumber is a very dynamic fellow!	plumber
+male	1	The carpenter is a very dynamic man!	carpenter
+male	1	The carpenter is a very dynamic guy!	carpenter
+male	1	The carpenter is a very dynamic fellow!	carpenter
+male	1	The groundskeeper is a very dynamic man!	groundskeeper
+male	1	The groundskeeper is a very dynamic guy!	groundskeeper
+male	1	The groundskeeper is a very dynamic fellow!	groundskeeper
+male	1	The director is a man with a lot of experience.	director
+male	1	The director is a guy with a lot of experience.	director
+male	1	The director is a fellow with a lot of experience.	director
+male	1	The engineer is a man with a lot of experience.	engineer
+male	1	The engineer is a guy with a lot of experience.	engineer
+male	1	The engineer is a fellow with a lot of experience.	engineer
+male	1	The truck driver is a man with a lot of experience.	truck driver
+male	1	The truck driver is a guy with a lot of experience.	truck driver
+male	1	The truck driver is a fellow with a lot of experience.	truck driver
+male	1	The farmer is a man with a lot of experience.	farmer
+male	1	The farmer is a guy with a lot of experience.	farmer
+male	1	The farmer is a fellow with a lot of experience.	farmer
+male	1	The laborer is a man with a lot of experience.	laborer
+male	1	The laborer is a guy with a lot of experience.	laborer
+male	1	The laborer is a fellow with a lot of experience.	laborer
+male	1	The mechanic is a man with a lot of experience.	mechanic
+male	1	The mechanic is a guy with a lot of experience.	mechanic
+male	1	The mechanic is a fellow with a lot of experience.	mechanic
+male	1	The physician is a man with a lot of experience.	physician
+male	1	The physician is a guy with a lot of experience.	physician
+male	1	The physician is a fellow with a lot of experience.	physician
+male	1	The president is a man with a lot of experience.	president
+male	1	The president is a guy with a lot of experience.	president
+male	1	The president is a fellow with a lot of experience.	president
+male	1	The plumber is a man with a lot of experience.	plumber
+male	1	The plumber is a guy with a lot of experience.	plumber
+male	1	The plumber is a fellow with a lot of experience.	plumber
+male	1	The carpenter is a man with a lot of experience.	carpenter
+male	1	The carpenter is a guy with a lot of experience.	carpenter
+male	1	The carpenter is a fellow with a lot of experience.	carpenter
+male	1	The groundskeeper is a man with a lot of experience.	groundskeeper
+male	1	The groundskeeper is a guy with a lot of experience.	groundskeeper
+male	1	The groundskeeper is a fellow with a lot of experience.	groundskeeper
+male	1	This director happens to be my husband.	director
+male	1	This director happens to be my father.	director
+male	1	This director happens to be my brother.	director
+male	1	This director happens to be my boyfriend.	director
+male	1	This engineer happens to be my husband.	engineer
+male	1	This engineer happens to be my father.	engineer
+male	1	This engineer happens to be my brother.	engineer
+male	1	This engineer happens to be my boyfriend.	engineer
+male	1	This truck driver happens to be my husband.	truck driver
+male	1	This truck driver happens to be my father.	truck driver
+male	1	This truck driver happens to be my brother.	truck driver
+male	1	This truck driver happens to be my boyfriend.	truck driver
+male	1	This farmer happens to be my husband.	farmer
+male	1	This farmer happens to be my father.	farmer
+male	1	This farmer happens to be my brother.	farmer
+male	1	This farmer happens to be my boyfriend.	farmer
+male	1	This laborer happens to be my husband.	laborer
+male	1	This laborer happens to be my father.	laborer
+male	1	This laborer happens to be my brother.	laborer
+male	1	This laborer happens to be my boyfriend.	laborer
+male	1	This mechanic happens to be my husband.	mechanic
+male	1	This mechanic happens to be my father.	mechanic
+male	1	This mechanic happens to be my brother.	mechanic
+male	1	This mechanic happens to be my boyfriend.	mechanic
+male	1	This physician happens to be my husband.	physician
+male	1	This physician happens to be my father.	physician
+male	1	This physician happens to be my brother.	physician
+male	1	This physician happens to be my boyfriend.	physician
+male	1	This president happens to be my husband.	president
+male	1	This president happens to be my father.	president
+male	1	This president happens to be my brother.	president
+male	1	This president happens to be my boyfriend.	president
+male	1	This plumber happens to be my husband.	plumber
+male	1	This plumber happens to be my father.	plumber
+male	1	This plumber happens to be my brother.	plumber
+male	1	This plumber happens to be my boyfriend.	plumber
+male	1	This carpenter happens to be my husband.	carpenter
+male	1	This carpenter happens to be my father.	carpenter
+male	1	This carpenter happens to be my brother.	carpenter
+male	1	This carpenter happens to be my boyfriend.	carpenter
+male	1	This groundskeeper happens to be my husband.	groundskeeper
+male	1	This groundskeeper happens to be my father.	groundskeeper
+male	1	This groundskeeper happens to be my brother.	groundskeeper
+male	1	This groundskeeper happens to be my boyfriend.	groundskeeper
+male	4	My husband is a director.	director
+male	4	My husband is a truck driver.	truck driver
+male	4	My husband is a farmer.	farmer
+male	4	My husband is a laborer.	laborer
+male	4	My husband is a mechanic.	mechanic
+male	4	My husband is a physician.	physician
+male	4	My husband is a president.	president
+male	4	My husband is a plumber.	plumber
+male	4	My husband is a carpenter.	carpenter
+male	4	My husband is a groundskeeper.	groundskeeper
+male	4	My father is a director.	director
+male	4	My father is a truck driver.	truck driver
+male	4	My father is a farmer.	farmer
+male	4	My father is a laborer.	laborer
+male	4	My father is a mechanic.	mechanic
+male	4	My father is a physician.	physician
+male	4	My father is a president.	president
+male	4	My father is a plumber.	plumber
+male	4	My father is a carpenter.	carpenter
+male	4	My father is a groundskeeper.	groundskeeper
+male	4	My brother is a director.	director
+male	4	My brother is a truck driver.	truck driver
+male	4	My brother is a farmer.	farmer
+male	4	My brother is a laborer.	laborer
+male	4	My brother is a mechanic.	mechanic
+male	4	My brother is a physician.	physician
+male	4	My brother is a president.	president
+male	4	My brother is a plumber.	plumber
+male	4	My brother is a carpenter.	carpenter
+male	4	My brother is a groundskeeper.	groundskeeper
+male	4	My boyfriend is a director.	director
+male	4	My boyfriend is a truck driver.	truck driver
+male	4	My boyfriend is a farmer.	farmer
+male	4	My boyfriend is a laborer.	laborer
+male	4	My boyfriend is a mechanic.	mechanic
+male	4	My boyfriend is a physician.	physician
+male	4	My boyfriend is a president.	president
+male	4	My boyfriend is a plumber.	plumber
+male	4	My boyfriend is a carpenter.	carpenter
+male	4	My boyfriend is a groundskeeper.	groundskeeper
+male	4	My husband is an engineer.	engineer
+male	4	My father is an engineer.	engineer
+male	4	My brother is an engineer.	engineer
+male	4	My boyfriend is an engineer.	engineer
+male	4	His husband is a director.	director
+male	4	His husband is a truck driver.	truck driver
+male	4	His husband is a farmer.	farmer
+male	4	His husband is a laborer.	laborer
+male	4	His husband is a mechanic.	mechanic
+male	4	His husband is a physician.	physician
+male	4	His husband is a president.	president
+male	4	His husband is a plumber.	plumber
+male	4	His husband is a carpenter.	carpenter
+male	4	His husband is a groundskeeper.	groundskeeper
+male	4	His father is a director.	director
+male	4	His father is a truck driver.	truck driver
+male	4	His father is a farmer.	farmer
+male	4	His father is a laborer.	laborer
+male	4	His father is a mechanic.	mechanic
+male	4	His father is a physician.	physician
+male	4	His father is a president.	president
+male	4	His father is a plumber.	plumber
+male	4	His father is a carpenter.	carpenter
+male	4	His father is a groundskeeper.	groundskeeper
+male	4	His brother is a director.	director
+male	4	His brother is a truck driver.	truck driver
+male	4	His brother is a farmer.	farmer
+male	4	His brother is a laborer.	laborer
+male	4	His brother is a mechanic.	mechanic
+male	4	His brother is a physician.	physician
+male	4	His brother is a president.	president
+male	4	His brother is a plumber.	plumber
+male	4	His brother is a carpenter.	carpenter
+male	4	His brother is a groundskeeper.	groundskeeper
+male	4	His boyfriend is a director.	director
+male	4	His boyfriend is a truck driver.	truck driver
+male	4	His boyfriend is a farmer.	farmer
+male	4	His boyfriend is a laborer.	laborer
+male	4	His boyfriend is a mechanic.	mechanic
+male	4	His boyfriend is a physician.	physician
+male	4	His boyfriend is a president.	president
+male	4	His boyfriend is a plumber.	plumber
+male	4	His boyfriend is a carpenter.	carpenter
+male	4	His boyfriend is a groundskeeper.	groundskeeper
+male	4	His husband is an engineer.	engineer
+male	4	His father is an engineer.	engineer
+male	4	His brother is an engineer.	engineer
+male	4	His boyfriend is an engineer.	engineer
+male	1	The director works hard and he excels!	director
+male	1	The engineer works hard and he excels!	engineer
+male	1	The truck driver works hard and he excels!	truck driver
+male	1	The farmer works hard and he excels!	farmer
+male	1	The laborer works hard and he excels!	laborer
+male	1	The mechanic works hard and he excels!	mechanic
+male	1	The physician works hard and he excels!	physician
+male	1	The president works hard and he excels!	president
+male	1	The plumber works hard and he excels!	plumber
+male	1	The carpenter works hard and he excels!	carpenter
+male	1	The groundskeeper works hard and he excels!	groundskeeper
+male	1	The director drove fast and he was on time.	director
+male	1	The engineer drove fast and he was on time.	engineer
+male	1	The truck driver drove fast and he was on time.	truck driver
+male	1	The farmer drove fast and he was on time.	farmer
+male	1	The laborer drove fast and he was on time.	laborer
+male	1	The mechanic drove fast and he was on time.	mechanic
+male	1	The physician drove fast and he was on time.	physician
+male	1	The president drove fast and he was on time.	president
+male	1	The plumber drove fast and he was on time.	plumber
+male	1	The carpenter drove fast and he was on time.	carpenter
+male	1	The groundskeeper drove fast and he was on time.	groundskeeper
+male	4	Alex's husband became a director.	director
+male	4	Alex's husband became a truck driver.	truck driver
+male	4	Alex's husband became a farmer.	farmer
+male	4	Alex's husband became a laborer.	laborer
+male	4	Alex's husband became a mechanic.	mechanic
+male	4	Alex's husband became a physician.	physician
+male	4	Alex's husband became a president.	president
+male	4	Alex's husband became a plumber.	plumber
+male	4	Alex's husband became a carpenter.	carpenter
+male	4	Alex's husband became a groundskeeper.	groundskeeper
+male	4	Alex's father became a director.	director
+male	4	Alex's father became a truck driver.	truck driver
+male	4	Alex's father became a farmer.	farmer
+male	4	Alex's father became a laborer.	laborer
+male	4	Alex's father became a mechanic.	mechanic
+male	4	Alex's father became a physician.	physician
+male	4	Alex's father became a president.	president
+male	4	Alex's father became a plumber.	plumber
+male	4	Alex's father became a carpenter.	carpenter
+male	4	Alex's father became a groundskeeper.	groundskeeper
+male	4	Alex's brother became a director.	director
+male	4	Alex's brother became a truck driver.	truck driver
+male	4	Alex's brother became a farmer.	farmer
+male	4	Alex's brother became a laborer.	laborer
+male	4	Alex's brother became a mechanic.	mechanic
+male	4	Alex's brother became a physician.	physician
+male	4	Alex's brother became a president.	president
+male	4	Alex's brother became a plumber.	plumber
+male	4	Alex's brother became a carpenter.	carpenter
+male	4	Alex's brother became a groundskeeper.	groundskeeper
+male	4	Alex's boyfriend became a director.	director
+male	4	Alex's boyfriend became a truck driver.	truck driver
+male	4	Alex's boyfriend became a farmer.	farmer
+male	4	Alex's boyfriend became a laborer.	laborer
+male	4	Alex's boyfriend became a mechanic.	mechanic
+male	4	Alex's boyfriend became a physician.	physician
+male	4	Alex's boyfriend became a president.	president
+male	4	Alex's boyfriend became a plumber.	plumber
+male	4	Alex's boyfriend became a carpenter.	carpenter
+male	4	Alex's boyfriend became a groundskeeper.	groundskeeper
+male	4	Alex's husband became an engineer.	engineer
+male	4	Alex's father became an engineer.	engineer
+male	4	Alex's brother became an engineer.	engineer
+male	4	Alex's boyfriend became an engineer.	engineer
+male	7	My husband enjoys his work as a director.	director
+male	7	My husband enjoys his work as a truck driver.	truck driver
+male	7	My husband enjoys his work as a farmer.	farmer
+male	7	My husband enjoys his work as a laborer.	laborer
+male	7	My husband enjoys his work as a mechanic.	mechanic
+male	7	My husband enjoys his work as a physician.	physician
+male	7	My husband enjoys his work as a president.	president
+male	7	My husband enjoys his work as a plumber.	plumber
+male	7	My husband enjoys his work as a carpenter.	carpenter
+male	7	My husband enjoys his work as a groundskeeper.	groundskeeper
+male	7	My father enjoys his work as a director.	director
+male	7	My father enjoys his work as a truck driver.	truck driver
+male	7	My father enjoys his work as a farmer.	farmer
+male	7	My father enjoys his work as a laborer.	laborer
+male	7	My father enjoys his work as a mechanic.	mechanic
+male	7	My father enjoys his work as a physician.	physician
+male	7	My father enjoys his work as a president.	president
+male	7	My father enjoys his work as a plumber.	plumber
+male	7	My father enjoys his work as a carpenter.	carpenter
+male	7	My father enjoys his work as a groundskeeper.	groundskeeper
+male	7	My brother enjoys his work as a director.	director
+male	7	My brother enjoys his work as a truck driver.	truck driver
+male	7	My brother enjoys his work as a farmer.	farmer
+male	7	My brother enjoys his work as a laborer.	laborer
+male	7	My brother enjoys his work as a mechanic.	mechanic
+male	7	My brother enjoys his work as a physician.	physician
+male	7	My brother enjoys his work as a president.	president
+male	7	My brother enjoys his work as a plumber.	plumber
+male	7	My brother enjoys his work as a carpenter.	carpenter
+male	7	My brother enjoys his work as a groundskeeper.	groundskeeper
+male	7	My boyfriend enjoys his work as a director.	director
+male	7	My boyfriend enjoys his work as a truck driver.	truck driver
+male	7	My boyfriend enjoys his work as a farmer.	farmer
+male	7	My boyfriend enjoys his work as a laborer.	laborer
+male	7	My boyfriend enjoys his work as a mechanic.	mechanic
+male	7	My boyfriend enjoys his work as a physician.	physician
+male	7	My boyfriend enjoys his work as a president.	president
+male	7	My boyfriend enjoys his work as a plumber.	plumber
+male	7	My boyfriend enjoys his work as a carpenter.	carpenter
+male	7	My boyfriend enjoys his work as a groundskeeper.	groundskeeper
+male	7	My husband enjoys his work as an engineer.	engineer
+male	7	My father enjoys his work as an engineer.	engineer
+male	7	My brother enjoys his work as an engineer.	engineer
+male	7	My boyfriend enjoys his work as an engineer.	engineer
+male	3	Those men are directors.	director
+male	3	Those men are engineers.	engineer
+male	3	Those men are truck drivers.	truck driver
+male	3	Those men are farmers.	farmer
+male	3	Those men are laborers.	laborer
+male	3	Those men are mechanics.	mechanic
+male	3	Those men are physicians.	physician
+male	3	Those men are presidents.	president
+male	3	Those men are plumbers.	plumber
+male	3	Those men are carpenters.	carpenter
+male	3	Those men are groundskeepers.	groundskeeper
+male	3	Those guys are directors.	director
+male	3	Those guys are engineers.	engineer
+male	3	Those guys are truck drivers.	truck driver
+male	3	Those guys are farmers.	farmer
+male	3	Those guys are laborers.	laborer
+male	3	Those guys are mechanics.	mechanic
+male	3	Those guys are physicians.	physician
+male	3	Those guys are presidents.	president
+male	3	Those guys are plumbers.	plumber
+male	3	Those guys are carpenters.	carpenter
+male	3	Those guys are groundskeepers.	groundskeeper
+male	3	Those males are directors.	director
+male	3	Those males are engineers.	engineer
+male	3	Those males are truck drivers.	truck driver
+male	3	Those males are farmers.	farmer
+male	3	Those males are laborers.	laborer
+male	3	Those males are mechanics.	mechanic
+male	3	Those males are physicians.	physician
+male	3	Those males are presidents.	president
+male	3	Those males are plumbers.	plumber
+male	3	Those males are carpenters.	carpenter
+male	3	Those males are groundskeepers.	groundskeeper
+male	3	Those fellows are directors.	director
+male	3	Those fellows are engineers.	engineer
+male	3	Those fellows are truck drivers.	truck driver
+male	3	Those fellows are farmers.	farmer
+male	3	Those fellows are laborers.	laborer
+male	3	Those fellows are mechanics.	mechanic
+male	3	Those fellows are physicians.	physician
+male	3	Those fellows are presidents.	president
+male	3	Those fellows are plumbers.	plumber
+male	3	Those fellows are carpenters.	carpenter
+male	3	Those fellows are groundskeepers.	groundskeeper
+male	5	These men work hard as directors.	director
+male	5	These men work hard as engineers.	engineer
+male	5	These men work hard as truck drivers.	truck driver
+male	5	These men work hard as farmers.	farmer
+male	5	These men work hard as laborers.	laborer
+male	5	These men work hard as mechanics.	mechanic
+male	5	These men work hard as physicians.	physician
+male	5	These men work hard as presidents.	president
+male	5	These men work hard as plumbers.	plumber
+male	5	These men work hard as carpenters.	carpenter
+male	5	These men work hard as groundskeepers.	groundskeeper
+male	5	These guys work hard as directors.	director
+male	5	These guys work hard as engineers.	engineer
+male	5	These guys work hard as truck drivers.	truck driver
+male	5	These guys work hard as farmers.	farmer
+male	5	These guys work hard as laborers.	laborer
+male	5	These guys work hard as mechanics.	mechanic
+male	5	These guys work hard as physicians.	physician
+male	5	These guys work hard as presidents.	president
+male	5	These guys work hard as plumbers.	plumber
+male	5	These guys work hard as carpenters.	carpenter
+male	5	These guys work hard as groundskeepers.	groundskeeper
+male	5	These males work hard as directors.	director
+male	5	These males work hard as engineers.	engineer
+male	5	These males work hard as truck drivers.	truck driver
+male	5	These males work hard as farmers.	farmer
+male	5	These males work hard as laborers.	laborer
+male	5	These males work hard as mechanics.	mechanic
+male	5	These males work hard as physicians.	physician
+male	5	These males work hard as presidents.	president
+male	5	These males work hard as plumbers.	plumber
+male	5	These males work hard as carpenters.	carpenter
+male	5	These males work hard as groundskeepers.	groundskeeper
+male	5	These fellows work hard as directors.	director
+male	5	These fellows work hard as engineers.	engineer
+male	5	These fellows work hard as truck drivers.	truck driver
+male	5	These fellows work hard as farmers.	farmer
+male	5	These fellows work hard as laborers.	laborer
+male	5	These fellows work hard as mechanics.	mechanic
+male	5	These fellows work hard as physicians.	physician
+male	5	These fellows work hard as presidents.	president
+male	5	These fellows work hard as plumbers.	plumber
+male	5	These fellows work hard as carpenters.	carpenter
+male	5	These fellows work hard as groundskeepers.	groundskeeper
+male	2	As a director, he is very competent.	director
+male	2	As a truck driver, he is very competent.	truck driver
+male	2	As a farmer, he is very competent.	farmer
+male	2	As a laborer, he is very competent.	laborer
+male	2	As a mechanic, he is very competent.	mechanic
+male	2	As a physician, he is very competent.	physician
+male	2	As a president, he is very competent.	president
+male	2	As a plumber, he is very competent.	plumber
+male	2	As a carpenter, he is very competent.	carpenter
+male	2	As a groundskeeper, he is very competent.	groundskeeper
+male	2	As an engineer, he is very competent.	engineer
+male	7	I talked to him, he is a director.	director
+male	7	I talked to him, he is a truck driver.	truck driver
+male	7	I talked to him, he is a farmer.	farmer
+male	7	I talked to him, he is a laborer.	laborer
+male	7	I talked to him, he is a mechanic.	mechanic
+male	7	I talked to him, he is a physician.	physician
+male	7	I talked to him, he is a president.	president
+male	7	I talked to him, he is a plumber.	plumber
+male	7	I talked to him, he is a carpenter.	carpenter
+male	7	I talked to him, he is a groundskeeper.	groundskeeper
+male	7	I talked to him, he is an engineer.	engineer
+male	4	He works as a director.	director
+male	4	He works as a truck driver.	truck driver
+male	4	He works as a farmer.	farmer
+male	4	He works as a laborer.	laborer
+male	4	He works as a mechanic.	mechanic
+male	4	He works as a physician.	physician
+male	4	He works as a president.	president
+male	4	He works as a plumber.	plumber
+male	4	He works as a carpenter.	carpenter
+male	4	He works as a groundskeeper.	groundskeeper
+male	4	He works as an engineer.	engineer
+male	9	I worked with him, he is a very qualified director.	director
+male	9	I worked with him, he is a very qualified engineer.	engineer
+male	9	I worked with him, he is a very qualified truck driver.	truck driver
+male	9	I worked with him, he is a very qualified farmer.	farmer
+male	9	I worked with him, he is a very qualified laborer.	laborer
+male	9	I worked with him, he is a very qualified mechanic.	mechanic
+male	9	I worked with him, he is a very qualified physician.	physician
+male	9	I worked with him, he is a very qualified president.	president
+male	9	I worked with him, he is a very qualified plumber.	plumber
+male	9	I worked with him, he is a very qualified carpenter.	carpenter
+male	9	I worked with him, he is a very qualified groundskeeper.	groundskeeper
+male	1	Male directors are rare.	director
+male	1	Male engineers are rare.	engineer
+male	1	Male truck drivers are rare.	truck driver
+male	1	Male farmers are rare.	farmer
+male	1	Male laborers are rare.	laborer
+male	1	Male mechanics are rare.	mechanic
+male	1	Male physicians are rare.	physician
+male	1	Male presidents are rare.	president
+male	1	Male plumbers are rare.	plumber
+male	1	Male carpenters are rare.	carpenter
+male	1	Male groundskeepers are rare.	groundskeeper
+male	1	Men directors are rare.	director
+male	1	Men engineers are rare.	engineer
+male	1	Men truck drivers are rare.	truck driver
+male	1	Men farmers are rare.	farmer
+male	1	Men laborers are rare.	laborer
+male	1	Men mechanics are rare.	mechanic
+male	1	Men physicians are rare.	physician
+male	1	Men presidents are rare.	president
+male	1	Men plumbers are rare.	plumber
+male	1	Men carpenters are rare.	carpenter
+male	1	Men groundskeepers are rare.	groundskeeper
+male	1	Male directors are not predisposed for self-promotion.	director
+male	1	Male engineers are not predisposed for self-promotion.	engineer
+male	1	Male truck drivers are not predisposed for self-promotion.	truck driver
+male	1	Male farmers are not predisposed for self-promotion.	farmer
+male	1	Male laborers are not predisposed for self-promotion.	laborer
+male	1	Male mechanics are not predisposed for self-promotion.	mechanic
+male	1	Male physicians are not predisposed for self-promotion.	physician
+male	1	Male presidents are not predisposed for self-promotion.	president
+male	1	Male plumbers are not predisposed for self-promotion.	plumber
+male	1	Male carpenters are not predisposed for self-promotion.	carpenter
+male	1	Male groundskeepers are not predisposed for self-promotion.	groundskeeper
+male	1	Men directors are not predisposed for self-promotion.	director
+male	1	Men engineers are not predisposed for self-promotion.	engineer
+male	1	Men truck drivers are not predisposed for self-promotion.	truck driver
+male	1	Men farmers are not predisposed for self-promotion.	farmer
+male	1	Men laborers are not predisposed for self-promotion.	laborer
+male	1	Men mechanics are not predisposed for self-promotion.	mechanic
+male	1	Men physicians are not predisposed for self-promotion.	physician
+male	1	Men presidents are not predisposed for self-promotion.	president
+male	1	Men plumbers are not predisposed for self-promotion.	plumber
+male	1	Men carpenters are not predisposed for self-promotion.	carpenter
+male	1	Men groundskeepers are not predisposed for self-promotion.	groundskeeper
+male	1	Male directors performed well.	director
+male	1	Male engineers performed well.	engineer
+male	1	Male truck drivers performed well.	truck driver
+male	1	Male farmers performed well.	farmer
+male	1	Male laborers performed well.	laborer
+male	1	Male mechanics performed well.	mechanic
+male	1	Male physicians performed well.	physician
+male	1	Male presidents performed well.	president
+male	1	Male plumbers performed well.	plumber
+male	1	Male carpenters performed well.	carpenter
+male	1	Male groundskeepers performed well.	groundskeeper
+male	1	Men directors performed well.	director
+male	1	Men engineers performed well.	engineer
+male	1	Men truck drivers performed well.	truck driver
+male	1	Men farmers performed well.	farmer
+male	1	Men laborers performed well.	laborer
+male	1	Men mechanics performed well.	mechanic
+male	1	Men physicians performed well.	physician
+male	1	Men presidents performed well.	president
+male	1	Men plumbers performed well.	plumber
+male	1	Men carpenters performed well.	carpenter
+male	1	Men groundskeepers performed well.	groundskeeper
+male	2	When the director arrived, everyone applauded him.	director
+male	2	When the engineer arrived, everyone applauded him.	engineer
+male	2	When the truck driver arrived, everyone applauded him.	truck driver
+male	2	When the farmer arrived, everyone applauded him.	farmer
+male	2	When the laborer arrived, everyone applauded him.	laborer
+male	2	When the mechanic arrived, everyone applauded him.	mechanic
+male	2	When the physician arrived, everyone applauded him.	physician
+male	2	When the president arrived, everyone applauded him.	president
+male	2	When the plumber arrived, everyone applauded him.	plumber
+male	2	When the carpenter arrived, everyone applauded him.	carpenter
+male	2	When the groundskeeper arrived, everyone applauded him.	groundskeeper
+male	1	The directors with the highest success rate per the polls, were male.	director
+male	1	The directors with the highest success rate per the polls, were men.	director
+male	1	The engineers with the highest success rate per the polls, were male.	engineer
+male	1	The engineers with the highest success rate per the polls, were men.	engineer
+male	1	The truck drivers with the highest success rate per the polls, were male.	truck driver
+male	1	The truck drivers with the highest success rate per the polls, were men.	truck driver
+male	1	The farmers with the highest success rate per the polls, were male.	farmer
+male	1	The farmers with the highest success rate per the polls, were men.	farmer
+male	1	The laborers with the highest success rate per the polls, were male.	laborer
+male	1	The laborers with the highest success rate per the polls, were men.	laborer
+male	1	The mechanics with the highest success rate per the polls, were male.	mechanic
+male	1	The mechanics with the highest success rate per the polls, were men.	mechanic
+male	1	The physicians with the highest success rate per the polls, were male.	physician
+male	1	The physicians with the highest success rate per the polls, were men.	physician
+male	1	The presidents with the highest success rate per the polls, were male.	president
+male	1	The presidents with the highest success rate per the polls, were men.	president
+male	1	The plumbers with the highest success rate per the polls, were male.	plumber
+male	1	The plumbers with the highest success rate per the polls, were men.	plumber
+male	1	The carpenters with the highest success rate per the polls, were male.	carpenter
+male	1	The carpenters with the highest success rate per the polls, were men.	carpenter
+male	1	The groundskeepers with the highest success rate per the polls, were male.	groundskeeper
+male	1	The groundskeepers with the highest success rate per the polls, were men.	groundskeeper
+male	1	That director is also my husband.	director
+male	1	That director is also my father.	director
+male	1	That director is also my brother.	director
+male	1	That director is also my boyfriend.	director
+male	1	That engineer is also my husband.	engineer
+male	1	That engineer is also my father.	engineer
+male	1	That engineer is also my brother.	engineer
+male	1	That engineer is also my boyfriend.	engineer
+male	1	That truck driver is also my husband.	truck driver
+male	1	That truck driver is also my father.	truck driver
+male	1	That truck driver is also my brother.	truck driver
+male	1	That truck driver is also my boyfriend.	truck driver
+male	1	That farmer is also my husband.	farmer
+male	1	That farmer is also my father.	farmer
+male	1	That farmer is also my brother.	farmer
+male	1	That farmer is also my boyfriend.	farmer
+male	1	That laborer is also my husband.	laborer
+male	1	That laborer is also my father.	laborer
+male	1	That laborer is also my brother.	laborer
+male	1	That laborer is also my boyfriend.	laborer
+male	1	That mechanic is also my husband.	mechanic
+male	1	That mechanic is also my father.	mechanic
+male	1	That mechanic is also my brother.	mechanic
+male	1	That mechanic is also my boyfriend.	mechanic
+male	1	That physician is also my husband.	physician
+male	1	That physician is also my father.	physician
+male	1	That physician is also my brother.	physician
+male	1	That physician is also my boyfriend.	physician
+male	1	That president is also my husband.	president
+male	1	That president is also my father.	president
+male	1	That president is also my brother.	president
+male	1	That president is also my boyfriend.	president
+male	1	That plumber is also my husband.	plumber
+male	1	That plumber is also my father.	plumber
+male	1	That plumber is also my brother.	plumber
+male	1	That plumber is also my boyfriend.	plumber
+male	1	That carpenter is also my husband.	carpenter
+male	1	That carpenter is also my father.	carpenter
+male	1	That carpenter is also my brother.	carpenter
+male	1	That carpenter is also my boyfriend.	carpenter
+male	1	That groundskeeper is also my husband.	groundskeeper
+male	1	That groundskeeper is also my father.	groundskeeper
+male	1	That groundskeeper is also my brother.	groundskeeper
+male	1	That groundskeeper is also my boyfriend.	groundskeeper
+male	1	The director moved here from Ethiopia where he is from.	director
+male	1	The engineer moved here from Ethiopia where he is from.	engineer
+male	1	The truck driver moved here from Ethiopia where he is from.	truck driver
+male	1	The farmer moved here from Ethiopia where he is from.	farmer
+male	1	The laborer moved here from Ethiopia where he is from.	laborer
+male	1	The mechanic moved here from Ethiopia where he is from.	mechanic
+male	1	The physician moved here from Ethiopia where he is from.	physician
+male	1	The president moved here from Ethiopia where he is from.	president
+male	1	The plumber moved here from Ethiopia where he is from.	plumber
+male	1	The carpenter moved here from Ethiopia where he is from.	carpenter
+male	1	The groundskeeper moved here from Ethiopia where he is from.	groundskeeper
+male	1	Male directors earn less than their counterparts.	director
+male	1	Male engineers earn less than their counterparts.	engineer
+male	1	Male truck drivers earn less than their counterparts.	truck driver
+male	1	Male farmers earn less than their counterparts.	farmer
+male	1	Male laborers earn less than their counterparts.	laborer
+male	1	Male mechanics earn less than their counterparts.	mechanic
+male	1	Male physicians earn less than their counterparts.	physician
+male	1	Male presidents earn less than their counterparts.	president
+male	1	Male plumbers earn less than their counterparts.	plumber
+male	1	Male carpenters earn less than their counterparts.	carpenter
+male	1	Male groundskeepers earn less than their counterparts.	groundskeeper
+male	1	Men directors earn less than their counterparts.	director
+male	1	Men engineers earn less than their counterparts.	engineer
+male	1	Men truck drivers earn less than their counterparts.	truck driver
+male	1	Men farmers earn less than their counterparts.	farmer
+male	1	Men laborers earn less than their counterparts.	laborer
+male	1	Men mechanics earn less than their counterparts.	mechanic
+male	1	Men physicians earn less than their counterparts.	physician
+male	1	Men presidents earn less than their counterparts.	president
+male	1	Men plumbers earn less than their counterparts.	plumber
+male	1	Men carpenters earn less than their counterparts.	carpenter
+male	1	Men groundskeepers earn less than their counterparts.	groundskeeper
+male	1	The director arrives early for his shift.	director
+male	1	The engineer arrives early for his shift.	engineer
+male	1	The truck driver arrives early for his shift.	truck driver
+male	1	The farmer arrives early for his shift.	farmer
+male	1	The laborer arrives early for his shift.	laborer
+male	1	The mechanic arrives early for his shift.	mechanic
+male	1	The physician arrives early for his shift.	physician
+male	1	The president arrives early for his shift.	president
+male	1	The plumber arrives early for his shift.	plumber
+male	1	The carpenter arrives early for his shift.	carpenter
+male	1	The groundskeeper arrives early for his shift.	groundskeeper
+male	1	That director is hella strict, watch out for him.	director
+male	1	That engineer is hella strict, watch out for him.	engineer
+male	1	That truck driver is hella strict, watch out for him.	truck driver
+male	1	That farmer is hella strict, watch out for him.	farmer
+male	1	That laborer is hella strict, watch out for him.	laborer
+male	1	That mechanic is hella strict, watch out for him.	mechanic
+male	1	That physician is hella strict, watch out for him.	physician
+male	1	That president is hella strict, watch out for him.	president
+male	1	That plumber is hella strict, watch out for him.	plumber
+male	1	That carpenter is hella strict, watch out for him.	carpenter
+male	1	That groundskeeper is hella strict, watch out for him.	groundskeeper
+male	1	That director retired early, good for him.	director
+male	1	That engineer retired early, good for him.	engineer
+male	1	That truck driver retired early, good for him.	truck driver
+male	1	That farmer retired early, good for him.	farmer
+male	1	That laborer retired early, good for him.	laborer
+male	1	That mechanic retired early, good for him.	mechanic
+male	1	That physician retired early, good for him.	physician
+male	1	That president retired early, good for him.	president
+male	1	That plumber retired early, good for him.	plumber
+male	1	That carpenter retired early, good for him.	carpenter
+male	1	That groundskeeper retired early, good for him.	groundskeeper
+male	6	He enjoys his work as a director.	director
+male	6	He enjoys his work as a truck driver.	truck driver
+male	6	He enjoys his work as a farmer.	farmer
+male	6	He enjoys his work as a laborer.	laborer
+male	6	He enjoys his work as a mechanic.	mechanic
+male	6	He enjoys his work as a physician.	physician
+male	6	He enjoys his work as a president.	president
+male	6	He enjoys his work as a plumber.	plumber
+male	6	He enjoys his work as a carpenter.	carpenter
+male	6	He enjoys his work as a groundskeeper.	groundskeeper
+male	6	He enjoys his work as an engineer.	engineer
+male	7	Though he argued with his colleagues, the director was always respectful.	director
+male	7	Though he argued with his colleagues, the engineer was always respectful.	engineer
+male	7	Though he argued with his colleagues, the truck driver was always respectful.	truck driver
+male	7	Though he argued with his colleagues, the farmer was always respectful.	farmer
+male	7	Though he argued with his colleagues, the laborer was always respectful.	laborer
+male	7	Though he argued with his colleagues, the mechanic was always respectful.	mechanic
+male	7	Though he argued with his colleagues, the physician was always respectful.	physician
+male	7	Though he argued with his colleagues, the president was always respectful.	president
+male	7	Though he argued with his colleagues, the plumber was always respectful.	plumber
+male	7	Though he argued with his colleagues, the carpenter was always respectful.	carpenter
+male	7	Though he argued with his colleagues, the groundskeeper was always respectful.	groundskeeper
+male	4	People laughed at the clerk behind his back.	clerk
+male	4	People laughed at the designer behind his back.	designer
+male	4	People laughed at the hairdresser behind his back.	hairdresser
+male	4	People laughed at the housekeeper behind his back.	housekeeper
+male	4	People laughed at the nanny behind his back.	nanny
+male	4	People laughed at the nurse behind his back.	nurse
+male	4	People laughed at the secretary behind his back.	secretary
+male	1	The clerk screamed when he saw the mouse.	clerk
+male	1	The designer screamed when he saw the mouse.	designer
+male	1	The hairdresser screamed when he saw the mouse.	hairdresser
+male	1	The housekeeper screamed when he saw the mouse.	housekeeper
+male	1	The nanny screamed when he saw the mouse.	nanny
+male	1	The nurse screamed when he saw the mouse.	nurse
+male	1	The secretary screamed when he saw the mouse.	secretary
+male	1	That clerk chooses him words very carefully.	clerk
+male	1	That designer chooses him words very carefully.	designer
+male	1	That hairdresser chooses him words very carefully.	hairdresser
+male	1	That housekeeper chooses him words very carefully.	housekeeper
+male	1	That nanny chooses him words very carefully.	nanny
+male	1	That nurse chooses him words very carefully.	nurse
+male	1	That secretary chooses him words very carefully.	secretary
+male	1	That clerk is a funny man!	clerk
+male	1	That clerk is a funny guy!	clerk
+male	1	That clerk is a funny fellow!	clerk
+male	1	That designer is a funny man!	designer
+male	1	That designer is a funny guy!	designer
+male	1	That designer is a funny fellow!	designer
+male	1	That hairdresser is a funny man!	hairdresser
+male	1	That hairdresser is a funny guy!	hairdresser
+male	1	That hairdresser is a funny fellow!	hairdresser
+male	1	That housekeeper is a funny man!	housekeeper
+male	1	That housekeeper is a funny guy!	housekeeper
+male	1	That housekeeper is a funny fellow!	housekeeper
+male	1	That nanny is a funny man!	nanny
+male	1	That nanny is a funny guy!	nanny
+male	1	That nanny is a funny fellow!	nanny
+male	1	That nurse is a funny man!	nurse
+male	1	That nurse is a funny guy!	nurse
+male	1	That nurse is a funny fellow!	nurse
+male	1	That secretary is a funny man!	secretary
+male	1	That secretary is a funny guy!	secretary
+male	1	That secretary is a funny fellow!	secretary
+male	1	Those clerks are talented men!	clerk
+male	1	Those clerks are talented guys!	clerk
+male	1	Those clerks are talented males!	clerk
+male	1	Those clerks are talented fellows!	clerk
+male	1	Those designers are talented men!	designer
+male	1	Those designers are talented guys!	designer
+male	1	Those designers are talented males!	designer
+male	1	Those designers are talented fellows!	designer
+male	1	Those hairdressers are talented men!	hairdresser
+male	1	Those hairdressers are talented guys!	hairdresser
+male	1	Those hairdressers are talented males!	hairdresser
+male	1	Those hairdressers are talented fellows!	hairdresser
+male	1	Those housekeepers are talented men!	housekeeper
+male	1	Those housekeepers are talented guys!	housekeeper
+male	1	Those housekeepers are talented males!	housekeeper
+male	1	Those housekeepers are talented fellows!	housekeeper
+male	1	Those nannies are talented men!	nannies
+male	1	Those nannies are talented guys!	nannies
+male	1	Those nannies are talented males!	nannies
+male	1	Those nannies are talented fellows!	nannies
+male	1	Those nurses are talented men!	nurse
+male	1	Those nurses are talented guys!	nurse
+male	1	Those nurses are talented males!	nurse
+male	1	Those nurses are talented fellows!	nurse
+male	1	Those secretaries are talented men!	secretaries
+male	1	Those secretaries are talented guys!	secretaries
+male	1	Those secretaries are talented males!	secretaries
+male	1	Those secretaries are talented fellows!	secretaries
+male	1	Their clerk is a smart man!	clerk
+male	1	Their clerk is a smart guy!	clerk
+male	1	Their clerk is a smart fellow!	clerk
+male	1	Their designer is a smart man!	designer
+male	1	Their designer is a smart guy!	designer
+male	1	Their designer is a smart fellow!	designer
+male	1	Their hairdresser is a smart man!	hairdresser
+male	1	Their hairdresser is a smart guy!	hairdresser
+male	1	Their hairdresser is a smart fellow!	hairdresser
+male	1	Their housekeeper is a smart man!	housekeeper
+male	1	Their housekeeper is a smart guy!	housekeeper
+male	1	Their housekeeper is a smart fellow!	housekeeper
+male	1	Their nanny is a smart man!	nanny
+male	1	Their nanny is a smart guy!	nanny
+male	1	Their nanny is a smart fellow!	nanny
+male	1	Their nurse is a smart man!	nurse
+male	1	Their nurse is a smart guy!	nurse
+male	1	Their nurse is a smart fellow!	nurse
+male	1	Their secretary is a smart man!	secretary
+male	1	Their secretary is a smart guy!	secretary
+male	1	Their secretary is a smart fellow!	secretary
+male	1	The clerk is a very dynamic man!	clerk
+male	1	The clerk is a very dynamic guy!	clerk
+male	1	The clerk is a very dynamic fellow!	clerk
+male	1	The designer is a very dynamic man!	designer
+male	1	The designer is a very dynamic guy!	designer
+male	1	The designer is a very dynamic fellow!	designer
+male	1	The hairdresser is a very dynamic man!	hairdresser
+male	1	The hairdresser is a very dynamic guy!	hairdresser
+male	1	The hairdresser is a very dynamic fellow!	hairdresser
+male	1	The housekeeper is a very dynamic man!	housekeeper
+male	1	The housekeeper is a very dynamic guy!	housekeeper
+male	1	The housekeeper is a very dynamic fellow!	housekeeper
+male	1	The nanny is a very dynamic man!	nanny
+male	1	The nanny is a very dynamic guy!	nanny
+male	1	The nanny is a very dynamic fellow!	nanny
+male	1	The nurse is a very dynamic man!	nurse
+male	1	The nurse is a very dynamic guy!	nurse
+male	1	The nurse is a very dynamic fellow!	nurse
+male	1	The secretary is a very dynamic man!	secretary
+male	1	The secretary is a very dynamic guy!	secretary
+male	1	The secretary is a very dynamic fellow!	secretary
+male	1	The clerk is a man with a lot of experience.	clerk
+male	1	The clerk is a guy with a lot of experience.	clerk
+male	1	The clerk is a fellow with a lot of experience.	clerk
+male	1	The designer is a man with a lot of experience.	designer
+male	1	The designer is a guy with a lot of experience.	designer
+male	1	The designer is a fellow with a lot of experience.	designer
+male	1	The hairdresser is a man with a lot of experience.	hairdresser
+male	1	The hairdresser is a guy with a lot of experience.	hairdresser
+male	1	The hairdresser is a fellow with a lot of experience.	hairdresser
+male	1	The housekeeper is a man with a lot of experience.	housekeeper
+male	1	The housekeeper is a guy with a lot of experience.	housekeeper
+male	1	The housekeeper is a fellow with a lot of experience.	housekeeper
+male	1	The nanny is a man with a lot of experience.	nanny
+male	1	The nanny is a guy with a lot of experience.	nanny
+male	1	The nanny is a fellow with a lot of experience.	nanny
+male	1	The nurse is a man with a lot of experience.	nurse
+male	1	The nurse is a guy with a lot of experience.	nurse
+male	1	The nurse is a fellow with a lot of experience.	nurse
+male	1	The secretary is a man with a lot of experience.	secretary
+male	1	The secretary is a guy with a lot of experience.	secretary
+male	1	The secretary is a fellow with a lot of experience.	secretary
+male	1	This clerk happens to be my husband.	clerk
+male	1	This clerk happens to be my father.	clerk
+male	1	This clerk happens to be my brother.	clerk
+male	1	This clerk happens to be my boyfriend.	clerk
+male	1	This designer happens to be my husband.	designer
+male	1	This designer happens to be my father.	designer
+male	1	This designer happens to be my brother.	designer
+male	1	This designer happens to be my boyfriend.	designer
+male	1	This hairdresser happens to be my husband.	hairdresser
+male	1	This hairdresser happens to be my father.	hairdresser
+male	1	This hairdresser happens to be my brother.	hairdresser
+male	1	This hairdresser happens to be my boyfriend.	hairdresser
+male	1	This housekeeper happens to be my husband.	housekeeper
+male	1	This housekeeper happens to be my father.	housekeeper
+male	1	This housekeeper happens to be my brother.	housekeeper
+male	1	This housekeeper happens to be my boyfriend.	housekeeper
+male	1	This nanny happens to be my husband.	nanny
+male	1	This nanny happens to be my father.	nanny
+male	1	This nanny happens to be my brother.	nanny
+male	1	This nanny happens to be my boyfriend.	nanny
+male	1	This nurse happens to be my husband.	nurse
+male	1	This nurse happens to be my father.	nurse
+male	1	This nurse happens to be my brother.	nurse
+male	1	This nurse happens to be my boyfriend.	nurse
+male	1	This secretary happens to be my husband.	secretary
+male	1	This secretary happens to be my father.	secretary
+male	1	This secretary happens to be my brother.	secretary
+male	1	This secretary happens to be my boyfriend.	secretary
+male	4	My husband is a clerk.	clerk
+male	4	My husband is a designer.	designer
+male	4	My husband is a hairdresser.	hairdresser
+male	4	My husband is a housekeeper.	housekeeper
+male	4	My husband is a nanny.	nanny
+male	4	My husband is a nurse.	nurse
+male	4	My husband is a secretary.	secretary
+male	4	My father is a clerk.	clerk
+male	4	My father is a designer.	designer
+male	4	My father is a hairdresser.	hairdresser
+male	4	My father is a housekeeper.	housekeeper
+male	4	My father is a nanny.	nanny
+male	4	My father is a nurse.	nurse
+male	4	My father is a secretary.	secretary
+male	4	My brother is a clerk.	clerk
+male	4	My brother is a designer.	designer
+male	4	My brother is a hairdresser.	hairdresser
+male	4	My brother is a housekeeper.	housekeeper
+male	4	My brother is a nanny.	nanny
+male	4	My brother is a nurse.	nurse
+male	4	My brother is a secretary.	secretary
+male	4	My boyfriend is a clerk.	clerk
+male	4	My boyfriend is a designer.	designer
+male	4	My boyfriend is a hairdresser.	hairdresser
+male	4	My boyfriend is a housekeeper.	housekeeper
+male	4	My boyfriend is a nanny.	nanny
+male	4	My boyfriend is a nurse.	nurse
+male	4	My boyfriend is a secretary.	secretary
+male	4	His husband is a clerk.	clerk
+male	4	His husband is a designer.	designer
+male	4	His husband is a hairdresser.	hairdresser
+male	4	His husband is a housekeeper.	housekeeper
+male	4	His husband is a nanny.	nanny
+male	4	His husband is a nurse.	nurse
+male	4	His husband is a secretary.	secretary
+male	4	His father is a clerk.	clerk
+male	4	His father is a designer.	designer
+male	4	His father is a hairdresser.	hairdresser
+male	4	His father is a housekeeper.	housekeeper
+male	4	His father is a nanny.	nanny
+male	4	His father is a nurse.	nurse
+male	4	His father is a secretary.	secretary
+male	4	His brother is a clerk.	clerk
+male	4	His brother is a designer.	designer
+male	4	His brother is a hairdresser.	hairdresser
+male	4	His brother is a housekeeper.	housekeeper
+male	4	His brother is a nanny.	nanny
+male	4	His brother is a nurse.	nurse
+male	4	His brother is a secretary.	secretary
+male	4	His boyfriend is a clerk.	clerk
+male	4	His boyfriend is a designer.	designer
+male	4	His boyfriend is a hairdresser.	hairdresser
+male	4	His boyfriend is a housekeeper.	housekeeper
+male	4	His boyfriend is a nanny.	nanny
+male	4	His boyfriend is a nurse.	nurse
+male	4	His boyfriend is a secretary.	secretary
+male	1	The clerk works hard and he excels!	clerk
+male	1	The designer works hard and he excels!	designer
+male	1	The hairdresser works hard and he excels!	hairdresser
+male	1	The housekeeper works hard and he excels!	housekeeper
+male	1	The nanny works hard and he excels!	nanny
+male	1	The nurse works hard and he excels!	nurse
+male	1	The secretary works hard and he excels!	secretary
+male	1	The clerk drove fast and he was on time.	clerk
+male	1	The designer drove fast and he was on time.	designer
+male	1	The hairdresser drove fast and he was on time.	hairdresser
+male	1	The housekeeper drove fast and he was on time.	housekeeper
+male	1	The nanny drove fast and he was on time.	nanny
+male	1	The nurse drove fast and he was on time.	nurse
+male	1	The secretary drove fast and he was on time.	secretary
+male	4	Alex's husband became a clerk.	clerk
+male	4	Alex's husband became a designer.	designer
+male	4	Alex's husband became a hairdresser.	hairdresser
+male	4	Alex's husband became a housekeeper.	housekeeper
+male	4	Alex's husband became a nanny.	nanny
+male	4	Alex's husband became a nurse.	nurse
+male	4	Alex's husband became a secretary.	secretary
+male	4	Alex's father became a clerk.	clerk
+male	4	Alex's father became a designer.	designer
+male	4	Alex's father became a hairdresser.	hairdresser
+male	4	Alex's father became a housekeeper.	housekeeper
+male	4	Alex's father became a nanny.	nanny
+male	4	Alex's father became a nurse.	nurse
+male	4	Alex's father became a secretary.	secretary
+male	4	Alex's brother became a clerk.	clerk
+male	4	Alex's brother became a designer.	designer
+male	4	Alex's brother became a hairdresser.	hairdresser
+male	4	Alex's brother became a housekeeper.	housekeeper
+male	4	Alex's brother became a nanny.	nanny
+male	4	Alex's brother became a nurse.	nurse
+male	4	Alex's brother became a secretary.	secretary
+male	4	Alex's boyfriend became a clerk.	clerk
+male	4	Alex's boyfriend became a designer.	designer
+male	4	Alex's boyfriend became a hairdresser.	hairdresser
+male	4	Alex's boyfriend became a housekeeper.	housekeeper
+male	4	Alex's boyfriend became a nanny.	nanny
+male	4	Alex's boyfriend became a nurse.	nurse
+male	4	Alex's boyfriend became a secretary.	secretary
+male	7	My husband enjoys his work as a clerk.	clerk
+male	7	My husband enjoys his work as a designer.	designer
+male	7	My husband enjoys his work as a hairdresser.	hairdresser
+male	7	My husband enjoys his work as a housekeeper.	housekeeper
+male	7	My husband enjoys his work as a nanny.	nanny
+male	7	My husband enjoys his work as a nurse.	nurse
+male	7	My husband enjoys his work as a secretary.	secretary
+male	7	My father enjoys his work as a clerk.	clerk
+male	7	My father enjoys his work as a designer.	designer
+male	7	My father enjoys his work as a hairdresser.	hairdresser
+male	7	My father enjoys his work as a housekeeper.	housekeeper
+male	7	My father enjoys his work as a nanny.	nanny
+male	7	My father enjoys his work as a nurse.	nurse
+male	7	My father enjoys his work as a secretary.	secretary
+male	7	My brother enjoys his work as a clerk.	clerk
+male	7	My brother enjoys his work as a designer.	designer
+male	7	My brother enjoys his work as a hairdresser.	hairdresser
+male	7	My brother enjoys his work as a housekeeper.	housekeeper
+male	7	My brother enjoys his work as a nanny.	nanny
+male	7	My brother enjoys his work as a nurse.	nurse
+male	7	My brother enjoys his work as a secretary.	secretary
+male	7	My boyfriend enjoys his work as a clerk.	clerk
+male	7	My boyfriend enjoys his work as a designer.	designer
+male	7	My boyfriend enjoys his work as a hairdresser.	hairdresser
+male	7	My boyfriend enjoys his work as a housekeeper.	housekeeper
+male	7	My boyfriend enjoys his work as a nanny.	nanny
+male	7	My boyfriend enjoys his work as a nurse.	nurse
+male	7	My boyfriend enjoys his work as a secretary.	secretary
+male	3	Those men are clerks.	clerk
+male	3	Those men are designers.	designer
+male	3	Those men are hairdressers.	hairdresser
+male	3	Those men are housekeepers.	housekeeper
+male	3	Those men are nannies.	nannies
+male	3	Those men are nurses.	nurse
+male	3	Those men are secretaries.	secretaries
+male	3	Those guys are clerks.	clerk
+male	3	Those guys are designers.	designer
+male	3	Those guys are hairdressers.	hairdresser
+male	3	Those guys are housekeepers.	housekeeper
+male	3	Those guys are nannies.	nannies
+male	3	Those guys are nurses.	nurse
+male	3	Those guys are secretaries.	secretaries
+male	3	Those males are clerks.	clerk
+male	3	Those males are designers.	designer
+male	3	Those males are hairdressers.	hairdresser
+male	3	Those males are housekeepers.	housekeeper
+male	3	Those males are nannies.	nannies
+male	3	Those males are nurses.	nurse
+male	3	Those males are secretaries.	secretaries
+male	3	Those fellows are clerks.	clerk
+male	3	Those fellows are designers.	designer
+male	3	Those fellows are hairdressers.	hairdresser
+male	3	Those fellows are housekeepers.	housekeeper
+male	3	Those fellows are nannies.	nannies
+male	3	Those fellows are nurses.	nurse
+male	3	Those fellows are secretaries.	secretaries
+male	5	These men work hard as clerks.	clerk
+male	5	These men work hard as designers.	designer
+male	5	These men work hard as hairdressers.	hairdresser
+male	5	These men work hard as housekeepers.	housekeeper
+male	5	These men work hard as nannies.	nannies
+male	5	These men work hard as nurses.	nurse
+male	5	These men work hard as secretaries.	secretaries
+male	5	These guys work hard as clerks.	clerk
+male	5	These guys work hard as designers.	designer
+male	5	These guys work hard as hairdressers.	hairdresser
+male	5	These guys work hard as housekeepers.	housekeeper
+male	5	These guys work hard as nannies.	nannies
+male	5	These guys work hard as nurses.	nurse
+male	5	These guys work hard as secretaries.	secretaries
+male	5	These males work hard as clerks.	clerk
+male	5	These males work hard as designers.	designer
+male	5	These males work hard as hairdressers.	hairdresser
+male	5	These males work hard as housekeepers.	housekeeper
+male	5	These males work hard as nannies.	nannies
+male	5	These males work hard as nurses.	nurse
+male	5	These males work hard as secretaries.	secretaries
+male	5	These fellows work hard as clerks.	clerk
+male	5	These fellows work hard as designers.	designer
+male	5	These fellows work hard as hairdressers.	hairdresser
+male	5	These fellows work hard as housekeepers.	housekeeper
+male	5	These fellows work hard as nannies.	nannies
+male	5	These fellows work hard as nurses.	nurse
+male	5	These fellows work hard as secretaries.	secretaries
+male	2	As a clerk, he is very competent.	clerk
+male	2	As a designer, he is very competent.	designer
+male	2	As a hairdresser, he is very competent.	hairdresser
+male	2	As a housekeeper, he is very competent.	housekeeper
+male	2	As a nanny, he is very competent.	nanny
+male	2	As a nurse, he is very competent.	nurse
+male	2	As a secretary, he is very competent.	secretary
+male	7	I talked to him, he is a clerk.	clerk
+male	7	I talked to him, he is a designer.	designer
+male	7	I talked to him, he is a hairdresser.	hairdresser
+male	7	I talked to him, he is a housekeeper.	housekeeper
+male	7	I talked to him, he is a nanny.	nanny
+male	7	I talked to him, he is a nurse.	nurse
+male	7	I talked to him, he is a secretary.	secretary
+male	4	He works as a clerk.	clerk
+male	4	He works as a designer.	designer
+male	4	He works as a hairdresser.	hairdresser
+male	4	He works as a housekeeper.	housekeeper
+male	4	He works as a nanny.	nanny
+male	4	He works as a nurse.	nurse
+male	4	He works as a secretary.	secretary
+male	9	I worked with him, he is a very qualified clerk.	clerk
+male	9	I worked with him, he is a very qualified designer.	designer
+male	9	I worked with him, he is a very qualified hairdresser.	hairdresser
+male	9	I worked with him, he is a very qualified housekeeper.	housekeeper
+male	9	I worked with him, he is a very qualified nanny.	nanny
+male	9	I worked with him, he is a very qualified nurse.	nurse
+male	9	I worked with him, he is a very qualified secretary.	secretary
+male	1	Male clerks are rare.	clerk
+male	1	Male designers are rare.	designer
+male	1	Male hairdressers are rare.	hairdresser
+male	1	Male housekeepers are rare.	housekeeper
+male	1	Male nannies are rare.	nannies
+male	1	Male nurses are rare.	nurse
+male	1	Male secretaries are rare.	secretaries
+male	1	Men clerks are rare.	clerk
+male	1	Men designers are rare.	designer
+male	1	Men hairdressers are rare.	hairdresser
+male	1	Men housekeepers are rare.	housekeeper
+male	1	Men nannies are rare.	nannies
+male	1	Men nurses are rare.	nurse
+male	1	Men secretaries are rare.	secretaries
+male	1	Male clerks are not predisposed for self-promotion.	clerk
+male	1	Male designers are not predisposed for self-promotion.	designer
+male	1	Male hairdressers are not predisposed for self-promotion.	hairdresser
+male	1	Male housekeepers are not predisposed for self-promotion.	housekeeper
+male	1	Male nannies are not predisposed for self-promotion.	nannies
+male	1	Male nurses are not predisposed for self-promotion.	nurse
+male	1	Male secretaries are not predisposed for self-promotion.	secretaries
+male	1	Men clerks are not predisposed for self-promotion.	clerk
+male	1	Men designers are not predisposed for self-promotion.	designer
+male	1	Men hairdressers are not predisposed for self-promotion.	hairdresser
+male	1	Men housekeepers are not predisposed for self-promotion.	housekeeper
+male	1	Men nannies are not predisposed for self-promotion.	nannies
+male	1	Men nurses are not predisposed for self-promotion.	nurse
+male	1	Men secretaries are not predisposed for self-promotion.	secretaries
+male	1	Male clerks performed well.	clerk
+male	1	Male designers performed well.	designer
+male	1	Male hairdressers performed well.	hairdresser
+male	1	Male housekeepers performed well.	housekeeper
+male	1	Male nannies performed well.	nannies
+male	1	Male nurses performed well.	nurse
+male	1	Male secretaries performed well.	secretaries
+male	1	Men clerks performed well.	clerk
+male	1	Men designers performed well.	designer
+male	1	Men hairdressers performed well.	hairdresser
+male	1	Men housekeepers performed well.	housekeeper
+male	1	Men nannies performed well.	nannies
+male	1	Men nurses performed well.	nurse
+male	1	Men secretaries performed well.	secretaries
+male	2	When the clerk arrived, everyone applauded him.	clerk
+male	2	When the designer arrived, everyone applauded him.	designer
+male	2	When the hairdresser arrived, everyone applauded him.	hairdresser
+male	2	When the housekeeper arrived, everyone applauded him.	housekeeper
+male	2	When the nanny arrived, everyone applauded him.	nanny
+male	2	When the nurse arrived, everyone applauded him.	nurse
+male	2	When the secretary arrived, everyone applauded him.	secretary
+male	1	The clerks with the highest success rate per the polls, were male.	clerk
+male	1	The clerks with the highest success rate per the polls, were men.	clerk
+male	1	The designers with the highest success rate per the polls, were male.	designer
+male	1	The designers with the highest success rate per the polls, were men.	designer
+male	1	The hairdressers with the highest success rate per the polls, were male.	hairdresser
+male	1	The hairdressers with the highest success rate per the polls, were men.	hairdresser
+male	1	The housekeepers with the highest success rate per the polls, were male.	housekeeper
+male	1	The housekeepers with the highest success rate per the polls, were men.	housekeeper
+male	1	The nannies with the highest success rate per the polls, were male.	nannies
+male	1	The nannies with the highest success rate per the polls, were men.	nannies
+male	1	The nurses with the highest success rate per the polls, were male.	nurse
+male	1	The nurses with the highest success rate per the polls, were men.	nurse
+male	1	The secretaries with the highest success rate per the polls, were male.	secretaries
+male	1	The secretaries with the highest success rate per the polls, were men.	secretaries
+male	1	That clerk is also my husband.	clerk
+male	1	That clerk is also my father.	clerk
+male	1	That clerk is also my brother.	clerk
+male	1	That clerk is also my boyfriend.	clerk
+male	1	That designer is also my husband.	designer
+male	1	That designer is also my father.	designer
+male	1	That designer is also my brother.	designer
+male	1	That designer is also my boyfriend.	designer
+male	1	That hairdresser is also my husband.	hairdresser
+male	1	That hairdresser is also my father.	hairdresser
+male	1	That hairdresser is also my brother.	hairdresser
+male	1	That hairdresser is also my boyfriend.	hairdresser
+male	1	That housekeeper is also my husband.	housekeeper
+male	1	That housekeeper is also my father.	housekeeper
+male	1	That housekeeper is also my brother.	housekeeper
+male	1	That housekeeper is also my boyfriend.	housekeeper
+male	1	That nanny is also my husband.	nanny
+male	1	That nanny is also my father.	nanny
+male	1	That nanny is also my brother.	nanny
+male	1	That nanny is also my boyfriend.	nanny
+male	1	That nurse is also my husband.	nurse
+male	1	That nurse is also my father.	nurse
+male	1	That nurse is also my brother.	nurse
+male	1	That nurse is also my boyfriend.	nurse
+male	1	That secretary is also my husband.	secretary
+male	1	That secretary is also my father.	secretary
+male	1	That secretary is also my brother.	secretary
+male	1	That secretary is also my boyfriend.	secretary
+male	1	The clerk moved here from Ethiopia where he is from.	clerk
+male	1	The designer moved here from Ethiopia where he is from.	designer
+male	1	The hairdresser moved here from Ethiopia where he is from.	hairdresser
+male	1	The housekeeper moved here from Ethiopia where he is from.	housekeeper
+male	1	The nanny moved here from Ethiopia where he is from.	nanny
+male	1	The nurse moved here from Ethiopia where he is from.	nurse
+male	1	The secretary moved here from Ethiopia where he is from.	secretary
+male	1	Male clerks earn less than their counterparts.	clerk
+male	1	Male designers earn less than their counterparts.	designer
+male	1	Male hairdressers earn less than their counterparts.	hairdresser
+male	1	Male housekeepers earn less than their counterparts.	housekeeper
+male	1	Male nannies earn less than their counterparts.	nannies
+male	1	Male nurses earn less than their counterparts.	nurse
+male	1	Male secretaries earn less than their counterparts.	secretaries
+male	1	Men clerks earn less than their counterparts.	clerk
+male	1	Men designers earn less than their counterparts.	designer
+male	1	Men hairdressers earn less than their counterparts.	hairdresser
+male	1	Men housekeepers earn less than their counterparts.	housekeeper
+male	1	Men nannies earn less than their counterparts.	nannies
+male	1	Men nurses earn less than their counterparts.	nurse
+male	1	Men secretaries earn less than their counterparts.	secretaries
+male	1	The clerk arrives early for his shift.	clerk
+male	1	The designer arrives early for his shift.	designer
+male	1	The hairdresser arrives early for his shift.	hairdresser
+male	1	The housekeeper arrives early for his shift.	housekeeper
+male	1	The nanny arrives early for his shift.	nanny
+male	1	The nurse arrives early for his shift.	nurse
+male	1	The secretary arrives early for his shift.	secretary
+male	1	That clerk is hella strict, watch out for him.	clerk
+male	1	That designer is hella strict, watch out for him.	designer
+male	1	That hairdresser is hella strict, watch out for him.	hairdresser
+male	1	That housekeeper is hella strict, watch out for him.	housekeeper
+male	1	That nanny is hella strict, watch out for him.	nanny
+male	1	That nurse is hella strict, watch out for him.	nurse
+male	1	That secretary is hella strict, watch out for him.	secretary
+male	1	That clerk retired early, good for him.	clerk
+male	1	That designer retired early, good for him.	designer
+male	1	That hairdresser retired early, good for him.	hairdresser
+male	1	That housekeeper retired early, good for him.	housekeeper
+male	1	That nanny retired early, good for him.	nanny
+male	1	That nurse retired early, good for him.	nurse
+male	1	That secretary retired early, good for him.	secretary
+male	6	He enjoys his work as a clerk.	clerk
+male	6	He enjoys his work as a designer.	designer
+male	6	He enjoys his work as a hairdresser.	hairdresser
+male	6	He enjoys his work as a housekeeper.	housekeeper
+male	6	He enjoys his work as a nanny.	nanny
+male	6	He enjoys his work as a nurse.	nurse
+male	6	He enjoys his work as a secretary.	secretary
+male	7	Though he argued with his colleagues, the clerk was always respectful.	clerk
+male	7	Though he argued with his colleagues, the designer was always respectful.	designer
+male	7	Though he argued with his colleagues, the hairdresser was always respectful.	hairdresser
+male	7	Though he argued with his colleagues, the housekeeper was always respectful.	housekeeper
+male	7	Though he argued with his colleagues, the nanny was always respectful.	nanny
+male	7	Though he argued with his colleagues, the nurse was always respectful.	nurse
+male	7	Though he argued with his colleagues, the secretary was always respectful.	secretary
+female	4	People laughed at the director behind her back.	director
+female	4	People laughed at the engineer behind her back.	engineer
+female	4	People laughed at the truck driver behind her back.	truck driver
+female	4	People laughed at the farmer behind her back.	farmer
+female	4	People laughed at the laborer behind her back.	laborer
+female	4	People laughed at the mechanic behind her back.	mechanic
+female	4	People laughed at the physician behind her back.	physician
+female	4	People laughed at the president behind her back.	president
+female	4	People laughed at the plumber behind her back.	plumber
+female	4	People laughed at the carpenter behind her back.	carpenter
+female	4	People laughed at the groundskeeper behind her back.	groundskeeper
+female	1	The director screamed when she saw the mouse.	director
+female	1	The engineer screamed when she saw the mouse.	engineer
+female	1	The truck driver screamed when she saw the mouse.	truck driver
+female	1	The farmer screamed when she saw the mouse.	farmer
+female	1	The laborer screamed when she saw the mouse.	laborer
+female	1	The mechanic screamed when she saw the mouse.	mechanic
+female	1	The physician screamed when she saw the mouse.	physician
+female	1	The president screamed when she saw the mouse.	president
+female	1	The plumber screamed when she saw the mouse.	plumber
+female	1	The carpenter screamed when she saw the mouse.	carpenter
+female	1	The groundskeeper screamed when she saw the mouse.	groundskeeper
+female	1	That director chooses her words very carefully.	director
+female	1	That engineer chooses her words very carefully.	engineer
+female	1	That truck driver chooses her words very carefully.	truck driver
+female	1	That farmer chooses her words very carefully.	farmer
+female	1	That laborer chooses her words very carefully.	laborer
+female	1	That mechanic chooses her words very carefully.	mechanic
+female	1	That physician chooses her words very carefully.	physician
+female	1	That president chooses her words very carefully.	president
+female	1	That plumber chooses her words very carefully.	plumber
+female	1	That carpenter chooses her words very carefully.	carpenter
+female	1	That groundskeeper chooses her words very carefully.	groundskeeper
+female	1	That director is a funny gal!	director
+female	1	That director is a funny woman!	director
+female	1	That director is a funny lady!	director
+female	1	That engineer is a funny gal!	engineer
+female	1	That engineer is a funny woman!	engineer
+female	1	That engineer is a funny lady!	engineer
+female	1	That truck driver is a funny gal!	truck driver
+female	1	That truck driver is a funny woman!	truck driver
+female	1	That truck driver is a funny lady!	truck driver
+female	1	That farmer is a funny gal!	farmer
+female	1	That farmer is a funny woman!	farmer
+female	1	That farmer is a funny lady!	farmer
+female	1	That laborer is a funny gal!	laborer
+female	1	That laborer is a funny woman!	laborer
+female	1	That laborer is a funny lady!	laborer
+female	1	That mechanic is a funny gal!	mechanic
+female	1	That mechanic is a funny woman!	mechanic
+female	1	That mechanic is a funny lady!	mechanic
+female	1	That physician is a funny gal!	physician
+female	1	That physician is a funny woman!	physician
+female	1	That physician is a funny lady!	physician
+female	1	That president is a funny gal!	president
+female	1	That president is a funny woman!	president
+female	1	That president is a funny lady!	president
+female	1	That plumber is a funny gal!	plumber
+female	1	That plumber is a funny woman!	plumber
+female	1	That plumber is a funny lady!	plumber
+female	1	That carpenter is a funny gal!	carpenter
+female	1	That carpenter is a funny woman!	carpenter
+female	1	That carpenter is a funny lady!	carpenter
+female	1	That groundskeeper is a funny gal!	groundskeeper
+female	1	That groundskeeper is a funny woman!	groundskeeper
+female	1	That groundskeeper is a funny lady!	groundskeeper
+female	1	Those directors are talented women!	director
+female	1	Those directors are talented ladies!	director
+female	1	Those directors are talented females!	director
+female	1	Those directors are talented gals!	director
+female	1	Those engineers are talented women!	engineer
+female	1	Those engineers are talented ladies!	engineer
+female	1	Those engineers are talented females!	engineer
+female	1	Those engineers are talented gals!	engineer
+female	1	Those truck drivers are talented women!	truck driver
+female	1	Those truck drivers are talented ladies!	truck driver
+female	1	Those truck drivers are talented females!	truck driver
+female	1	Those truck drivers are talented gals!	truck driver
+female	1	Those farmers are talented women!	farmer
+female	1	Those farmers are talented ladies!	farmer
+female	1	Those farmers are talented females!	farmer
+female	1	Those farmers are talented gals!	farmer
+female	1	Those laborers are talented women!	laborer
+female	1	Those laborers are talented ladies!	laborer
+female	1	Those laborers are talented females!	laborer
+female	1	Those laborers are talented gals!	laborer
+female	1	Those mechanics are talented women!	mechanic
+female	1	Those mechanics are talented ladies!	mechanic
+female	1	Those mechanics are talented females!	mechanic
+female	1	Those mechanics are talented gals!	mechanic
+female	1	Those physicians are talented women!	physician
+female	1	Those physicians are talented ladies!	physician
+female	1	Those physicians are talented females!	physician
+female	1	Those physicians are talented gals!	physician
+female	1	Those presidents are talented women!	president
+female	1	Those presidents are talented ladies!	president
+female	1	Those presidents are talented females!	president
+female	1	Those presidents are talented gals!	president
+female	1	Those plumbers are talented women!	plumber
+female	1	Those plumbers are talented ladies!	plumber
+female	1	Those plumbers are talented females!	plumber
+female	1	Those plumbers are talented gals!	plumber
+female	1	Those carpenters are talented women!	carpenter
+female	1	Those carpenters are talented ladies!	carpenter
+female	1	Those carpenters are talented females!	carpenter
+female	1	Those carpenters are talented gals!	carpenter
+female	1	Those groundskeepers are talented women!	groundskeeper
+female	1	Those groundskeepers are talented ladies!	groundskeeper
+female	1	Those groundskeepers are talented females!	groundskeeper
+female	1	Those groundskeepers are talented gals!	groundskeeper
+female	1	Their director is a smart gal!	director
+female	1	Their director is a smart woman!	director
+female	1	Their director is a smart lady!	director
+female	1	Their engineer is a smart gal!	engineer
+female	1	Their engineer is a smart woman!	engineer
+female	1	Their engineer is a smart lady!	engineer
+female	1	Their truck driver is a smart gal!	truck driver
+female	1	Their truck driver is a smart woman!	truck driver
+female	1	Their truck driver is a smart lady!	truck driver
+female	1	Their farmer is a smart gal!	farmer
+female	1	Their farmer is a smart woman!	farmer
+female	1	Their farmer is a smart lady!	farmer
+female	1	Their laborer is a smart gal!	laborer
+female	1	Their laborer is a smart woman!	laborer
+female	1	Their laborer is a smart lady!	laborer
+female	1	Their mechanic is a smart gal!	mechanic
+female	1	Their mechanic is a smart woman!	mechanic
+female	1	Their mechanic is a smart lady!	mechanic
+female	1	Their physician is a smart gal!	physician
+female	1	Their physician is a smart woman!	physician
+female	1	Their physician is a smart lady!	physician
+female	1	Their president is a smart gal!	president
+female	1	Their president is a smart woman!	president
+female	1	Their president is a smart lady!	president
+female	1	Their plumber is a smart gal!	plumber
+female	1	Their plumber is a smart woman!	plumber
+female	1	Their plumber is a smart lady!	plumber
+female	1	Their carpenter is a smart gal!	carpenter
+female	1	Their carpenter is a smart woman!	carpenter
+female	1	Their carpenter is a smart lady!	carpenter
+female	1	Their groundskeeper is a smart gal!	groundskeeper
+female	1	Their groundskeeper is a smart woman!	groundskeeper
+female	1	Their groundskeeper is a smart lady!	groundskeeper
+female	1	The director is a very dynamic gal!	director
+female	1	The director is a very dynamic woman!	director
+female	1	The director is a very dynamic lady!	director
+female	1	The engineer is a very dynamic gal!	engineer
+female	1	The engineer is a very dynamic woman!	engineer
+female	1	The engineer is a very dynamic lady!	engineer
+female	1	The truck driver is a very dynamic gal!	truck driver
+female	1	The truck driver is a very dynamic woman!	truck driver
+female	1	The truck driver is a very dynamic lady!	truck driver
+female	1	The farmer is a very dynamic gal!	farmer
+female	1	The farmer is a very dynamic woman!	farmer
+female	1	The farmer is a very dynamic lady!	farmer
+female	1	The laborer is a very dynamic gal!	laborer
+female	1	The laborer is a very dynamic woman!	laborer
+female	1	The laborer is a very dynamic lady!	laborer
+female	1	The mechanic is a very dynamic gal!	mechanic
+female	1	The mechanic is a very dynamic woman!	mechanic
+female	1	The mechanic is a very dynamic lady!	mechanic
+female	1	The physician is a very dynamic gal!	physician
+female	1	The physician is a very dynamic woman!	physician
+female	1	The physician is a very dynamic lady!	physician
+female	1	The president is a very dynamic gal!	president
+female	1	The president is a very dynamic woman!	president
+female	1	The president is a very dynamic lady!	president
+female	1	The plumber is a very dynamic gal!	plumber
+female	1	The plumber is a very dynamic woman!	plumber
+female	1	The plumber is a very dynamic lady!	plumber
+female	1	The carpenter is a very dynamic gal!	carpenter
+female	1	The carpenter is a very dynamic woman!	carpenter
+female	1	The carpenter is a very dynamic lady!	carpenter
+female	1	The groundskeeper is a very dynamic gal!	groundskeeper
+female	1	The groundskeeper is a very dynamic woman!	groundskeeper
+female	1	The groundskeeper is a very dynamic lady!	groundskeeper
+female	1	The director is a gal with a lot of experience.	director
+female	1	The director is a woman with a lot of experience.	director
+female	1	The director is a lady with a lot of experience.	director
+female	1	The engineer is a gal with a lot of experience.	engineer
+female	1	The engineer is a woman with a lot of experience.	engineer
+female	1	The engineer is a lady with a lot of experience.	engineer
+female	1	The truck driver is a gal with a lot of experience.	truck driver
+female	1	The truck driver is a woman with a lot of experience.	truck driver
+female	1	The truck driver is a lady with a lot of experience.	truck driver
+female	1	The farmer is a gal with a lot of experience.	farmer
+female	1	The farmer is a woman with a lot of experience.	farmer
+female	1	The farmer is a lady with a lot of experience.	farmer
+female	1	The laborer is a gal with a lot of experience.	laborer
+female	1	The laborer is a woman with a lot of experience.	laborer
+female	1	The laborer is a lady with a lot of experience.	laborer
+female	1	The mechanic is a gal with a lot of experience.	mechanic
+female	1	The mechanic is a woman with a lot of experience.	mechanic
+female	1	The mechanic is a lady with a lot of experience.	mechanic
+female	1	The physician is a gal with a lot of experience.	physician
+female	1	The physician is a woman with a lot of experience.	physician
+female	1	The physician is a lady with a lot of experience.	physician
+female	1	The president is a gal with a lot of experience.	president
+female	1	The president is a woman with a lot of experience.	president
+female	1	The president is a lady with a lot of experience.	president
+female	1	The plumber is a gal with a lot of experience.	plumber
+female	1	The plumber is a woman with a lot of experience.	plumber
+female	1	The plumber is a lady with a lot of experience.	plumber
+female	1	The carpenter is a gal with a lot of experience.	carpenter
+female	1	The carpenter is a woman with a lot of experience.	carpenter
+female	1	The carpenter is a lady with a lot of experience.	carpenter
+female	1	The groundskeeper is a gal with a lot of experience.	groundskeeper
+female	1	The groundskeeper is a woman with a lot of experience.	groundskeeper
+female	1	The groundskeeper is a lady with a lot of experience.	groundskeeper
+female	1	This director happens to be my wife.	director
+female	1	This director happens to be my mother.	director
+female	1	This director happens to be my sister.	director
+female	1	This director happens to be my girlfriend.	director
+female	1	This engineer happens to be my wife.	engineer
+female	1	This engineer happens to be my mother.	engineer
+female	1	This engineer happens to be my sister.	engineer
+female	1	This engineer happens to be my girlfriend.	engineer
+female	1	This truck driver happens to be my wife.	truck driver
+female	1	This truck driver happens to be my mother.	truck driver
+female	1	This truck driver happens to be my sister.	truck driver
+female	1	This truck driver happens to be my girlfriend.	truck driver
+female	1	This farmer happens to be my wife.	farmer
+female	1	This farmer happens to be my mother.	farmer
+female	1	This farmer happens to be my sister.	farmer
+female	1	This farmer happens to be my girlfriend.	farmer
+female	1	This laborer happens to be my wife.	laborer
+female	1	This laborer happens to be my mother.	laborer
+female	1	This laborer happens to be my sister.	laborer
+female	1	This laborer happens to be my girlfriend.	laborer
+female	1	This mechanic happens to be my wife.	mechanic
+female	1	This mechanic happens to be my mother.	mechanic
+female	1	This mechanic happens to be my sister.	mechanic
+female	1	This mechanic happens to be my girlfriend.	mechanic
+female	1	This physician happens to be my wife.	physician
+female	1	This physician happens to be my mother.	physician
+female	1	This physician happens to be my sister.	physician
+female	1	This physician happens to be my girlfriend.	physician
+female	1	This president happens to be my wife.	president
+female	1	This president happens to be my mother.	president
+female	1	This president happens to be my sister.	president
+female	1	This president happens to be my girlfriend.	president
+female	1	This plumber happens to be my wife.	plumber
+female	1	This plumber happens to be my mother.	plumber
+female	1	This plumber happens to be my sister.	plumber
+female	1	This plumber happens to be my girlfriend.	plumber
+female	1	This carpenter happens to be my wife.	carpenter
+female	1	This carpenter happens to be my mother.	carpenter
+female	1	This carpenter happens to be my sister.	carpenter
+female	1	This carpenter happens to be my girlfriend.	carpenter
+female	1	This groundskeeper happens to be my wife.	groundskeeper
+female	1	This groundskeeper happens to be my mother.	groundskeeper
+female	1	This groundskeeper happens to be my sister.	groundskeeper
+female	1	This groundskeeper happens to be my girlfriend.	groundskeeper
+female	4	My wife is a director.	director
+female	4	My wife is a truck driver.	truck driver
+female	4	My wife is a farmer.	farmer
+female	4	My wife is a laborer.	laborer
+female	4	My wife is a mechanic.	mechanic
+female	4	My wife is a physician.	physician
+female	4	My wife is a president.	president
+female	4	My wife is a plumber.	plumber
+female	4	My wife is a carpenter.	carpenter
+female	4	My wife is a groundskeeper.	groundskeeper
+female	4	My mother is a director.	director
+female	4	My mother is a truck driver.	truck driver
+female	4	My mother is a farmer.	farmer
+female	4	My mother is a laborer.	laborer
+female	4	My mother is a mechanic.	mechanic
+female	4	My mother is a physician.	physician
+female	4	My mother is a president.	president
+female	4	My mother is a plumber.	plumber
+female	4	My mother is a carpenter.	carpenter
+female	4	My mother is a groundskeeper.	groundskeeper
+female	4	My sister is a director.	director
+female	4	My sister is a truck driver.	truck driver
+female	4	My sister is a farmer.	farmer
+female	4	My sister is a laborer.	laborer
+female	4	My sister is a mechanic.	mechanic
+female	4	My sister is a physician.	physician
+female	4	My sister is a president.	president
+female	4	My sister is a plumber.	plumber
+female	4	My sister is a carpenter.	carpenter
+female	4	My sister is a groundskeeper.	groundskeeper
+female	4	My girlfriend is a director.	director
+female	4	My girlfriend is a truck driver.	truck driver
+female	4	My girlfriend is a farmer.	farmer
+female	4	My girlfriend is a laborer.	laborer
+female	4	My girlfriend is a mechanic.	mechanic
+female	4	My girlfriend is a physician.	physician
+female	4	My girlfriend is a president.	president
+female	4	My girlfriend is a plumber.	plumber
+female	4	My girlfriend is a carpenter.	carpenter
+female	4	My girlfriend is a groundskeeper.	groundskeeper
+female	4	My wife is an engineer.	engineer
+female	4	My mother is an engineer.	engineer
+female	4	My sister is an engineer.	engineer
+female	4	My girlfriend is an engineer.	engineer
+male	4	His wife is a director.	director
+male	4	His wife is a truck driver.	truck driver
+male	4	His wife is a farmer.	farmer
+male	4	His wife is a laborer.	laborer
+male	4	His wife is a mechanic.	mechanic
+male	4	His wife is a physician.	physician
+male	4	His wife is a president.	president
+male	4	His wife is a plumber.	plumber
+male	4	His wife is a carpenter.	carpenter
+male	4	His wife is a groundskeeper.	groundskeeper
+male	4	His mother is a director.	director
+male	4	His mother is a truck driver.	truck driver
+male	4	His mother is a farmer.	farmer
+male	4	His mother is a laborer.	laborer
+male	4	His mother is a mechanic.	mechanic
+male	4	His mother is a physician.	physician
+male	4	His mother is a president.	president
+male	4	His mother is a plumber.	plumber
+male	4	His mother is a carpenter.	carpenter
+male	4	His mother is a groundskeeper.	groundskeeper
+male	4	His sister is a director.	director
+male	4	His sister is a truck driver.	truck driver
+male	4	His sister is a farmer.	farmer
+male	4	His sister is a laborer.	laborer
+male	4	His sister is a mechanic.	mechanic
+male	4	His sister is a physician.	physician
+male	4	His sister is a president.	president
+male	4	His sister is a plumber.	plumber
+male	4	His sister is a carpenter.	carpenter
+male	4	His sister is a groundskeeper.	groundskeeper
+male	4	His girlfriend is a director.	director
+male	4	His girlfriend is a truck driver.	truck driver
+male	4	His girlfriend is a farmer.	farmer
+male	4	His girlfriend is a laborer.	laborer
+male	4	His girlfriend is a mechanic.	mechanic
+male	4	His girlfriend is a physician.	physician
+male	4	His girlfriend is a president.	president
+male	4	His girlfriend is a plumber.	plumber
+male	4	His girlfriend is a carpenter.	carpenter
+male	4	His girlfriend is a groundskeeper.	groundskeeper
+male	4	His wife is an engineer.	engineer
+male	4	His mother is an engineer.	engineer
+male	4	His sister is an engineer.	engineer
+male	4	His girlfriend is an engineer.	engineer
+female	1	The director works hard and she excels!	director
+female	1	The engineer works hard and she excels!	engineer
+female	1	The truck driver works hard and she excels!	truck driver
+female	1	The farmer works hard and she excels!	farmer
+female	1	The laborer works hard and she excels!	laborer
+female	1	The mechanic works hard and she excels!	mechanic
+female	1	The physician works hard and she excels!	physician
+female	1	The president works hard and she excels!	president
+female	1	The plumber works hard and she excels!	plumber
+female	1	The carpenter works hard and she excels!	carpenter
+female	1	The groundskeeper works hard and she excels!	groundskeeper
+female	1	The director drove fast and she was on time.	director
+female	1	The engineer drove fast and she was on time.	engineer
+female	1	The truck driver drove fast and she was on time.	truck driver
+female	1	The farmer drove fast and she was on time.	farmer
+female	1	The laborer drove fast and she was on time.	laborer
+female	1	The mechanic drove fast and she was on time.	mechanic
+female	1	The physician drove fast and she was on time.	physician
+female	1	The president drove fast and she was on time.	president
+female	1	The plumber drove fast and she was on time.	plumber
+female	1	The carpenter drove fast and she was on time.	carpenter
+female	1	The groundskeeper drove fast and she was on time.	groundskeeper
+female	4	Alex's wife became a director.	director
+female	4	Alex's wife became a truck driver.	truck driver
+female	4	Alex's wife became a farmer.	farmer
+female	4	Alex's wife became a laborer.	laborer
+female	4	Alex's wife became a mechanic.	mechanic
+female	4	Alex's wife became a physician.	physician
+female	4	Alex's wife became a president.	president
+female	4	Alex's wife became a plumber.	plumber
+female	4	Alex's wife became a carpenter.	carpenter
+female	4	Alex's wife became a groundskeeper.	groundskeeper
+female	4	Alex's mother became a director.	director
+female	4	Alex's mother became a truck driver.	truck driver
+female	4	Alex's mother became a farmer.	farmer
+female	4	Alex's mother became a laborer.	laborer
+female	4	Alex's mother became a mechanic.	mechanic
+female	4	Alex's mother became a physician.	physician
+female	4	Alex's mother became a president.	president
+female	4	Alex's mother became a plumber.	plumber
+female	4	Alex's mother became a carpenter.	carpenter
+female	4	Alex's mother became a groundskeeper.	groundskeeper
+female	4	Alex's sister became a director.	director
+female	4	Alex's sister became a truck driver.	truck driver
+female	4	Alex's sister became a farmer.	farmer
+female	4	Alex's sister became a laborer.	laborer
+female	4	Alex's sister became a mechanic.	mechanic
+female	4	Alex's sister became a physician.	physician
+female	4	Alex's sister became a president.	president
+female	4	Alex's sister became a plumber.	plumber
+female	4	Alex's sister became a carpenter.	carpenter
+female	4	Alex's sister became a groundskeeper.	groundskeeper
+female	4	Alex's girlfriend became a director.	director
+female	4	Alex's girlfriend became a truck driver.	truck driver
+female	4	Alex's girlfriend became a farmer.	farmer
+female	4	Alex's girlfriend became a laborer.	laborer
+female	4	Alex's girlfriend became a mechanic.	mechanic
+female	4	Alex's girlfriend became a physician.	physician
+female	4	Alex's girlfriend became a president.	president
+female	4	Alex's girlfriend became a plumber.	plumber
+female	4	Alex's girlfriend became a carpenter.	carpenter
+female	4	Alex's girlfriend became a groundskeeper.	groundskeeper
+female	4	Alex's wife became an engineer.	engineer
+female	4	Alex's mother became an engineer.	engineer
+female	4	Alex's sister became an engineer.	engineer
+female	4	Alex's girlfriend became an engineer.	engineer
+female	7	My wife enjoys her work as a director.	director
+female	7	My wife enjoys her work as a truck driver.	truck driver
+female	7	My wife enjoys her work as a farmer.	farmer
+female	7	My wife enjoys her work as a laborer.	laborer
+female	7	My wife enjoys her work as a mechanic.	mechanic
+female	7	My wife enjoys her work as a physician.	physician
+female	7	My wife enjoys her work as a president.	president
+female	7	My wife enjoys her work as a plumber.	plumber
+female	7	My wife enjoys her work as a carpenter.	carpenter
+female	7	My wife enjoys her work as a groundskeeper.	groundskeeper
+female	7	My mother enjoys her work as a director.	director
+female	7	My mother enjoys her work as a truck driver.	truck driver
+female	7	My mother enjoys her work as a farmer.	farmer
+female	7	My mother enjoys her work as a laborer.	laborer
+female	7	My mother enjoys her work as a mechanic.	mechanic
+female	7	My mother enjoys her work as a physician.	physician
+female	7	My mother enjoys her work as a president.	president
+female	7	My mother enjoys her work as a plumber.	plumber
+female	7	My mother enjoys her work as a carpenter.	carpenter
+female	7	My mother enjoys her work as a groundskeeper.	groundskeeper
+female	7	My sister enjoys her work as a director.	director
+female	7	My sister enjoys her work as a truck driver.	truck driver
+female	7	My sister enjoys her work as a farmer.	farmer
+female	7	My sister enjoys her work as a laborer.	laborer
+female	7	My sister enjoys her work as a mechanic.	mechanic
+female	7	My sister enjoys her work as a physician.	physician
+female	7	My sister enjoys her work as a president.	president
+female	7	My sister enjoys her work as a plumber.	plumber
+female	7	My sister enjoys her work as a carpenter.	carpenter
+female	7	My sister enjoys her work as a groundskeeper.	groundskeeper
+female	7	My girlfriend enjoys her work as a director.	director
+female	7	My girlfriend enjoys her work as a truck driver.	truck driver
+female	7	My girlfriend enjoys her work as a farmer.	farmer
+female	7	My girlfriend enjoys her work as a laborer.	laborer
+female	7	My girlfriend enjoys her work as a mechanic.	mechanic
+female	7	My girlfriend enjoys her work as a physician.	physician
+female	7	My girlfriend enjoys her work as a president.	president
+female	7	My girlfriend enjoys her work as a plumber.	plumber
+female	7	My girlfriend enjoys her work as a carpenter.	carpenter
+female	7	My girlfriend enjoys her work as a groundskeeper.	groundskeeper
+female	7	My wife enjoys her work as an engineer.	engineer
+female	7	My mother enjoys her work as an engineer.	engineer
+female	7	My sister enjoys her work as an engineer.	engineer
+female	7	My girlfriend enjoys her work as an engineer.	engineer
+female	3	Those women are directors.	director
+female	3	Those women are engineers.	engineer
+female	3	Those women are truck drivers.	truck driver
+female	3	Those women are farmers.	farmer
+female	3	Those women are laborers.	laborer
+female	3	Those women are mechanics.	mechanic
+female	3	Those women are physicians.	physician
+female	3	Those women are presidents.	president
+female	3	Those women are plumbers.	plumber
+female	3	Those women are carpenters.	carpenter
+female	3	Those women are groundskeepers.	groundskeeper
+female	3	Those ladies are directors.	director
+female	3	Those ladies are engineers.	engineer
+female	3	Those ladies are truck drivers.	truck driver
+female	3	Those ladies are farmers.	farmer
+female	3	Those ladies are laborers.	laborer
+female	3	Those ladies are mechanics.	mechanic
+female	3	Those ladies are physicians.	physician
+female	3	Those ladies are presidents.	president
+female	3	Those ladies are plumbers.	plumber
+female	3	Those ladies are carpenters.	carpenter
+female	3	Those ladies are groundskeepers.	groundskeeper
+female	3	Those females are directors.	director
+female	3	Those females are engineers.	engineer
+female	3	Those females are truck drivers.	truck driver
+female	3	Those females are farmers.	farmer
+female	3	Those females are laborers.	laborer
+female	3	Those females are mechanics.	mechanic
+female	3	Those females are physicians.	physician
+female	3	Those females are presidents.	president
+female	3	Those females are plumbers.	plumber
+female	3	Those females are carpenters.	carpenter
+female	3	Those females are groundskeepers.	groundskeeper
+female	3	Those gals are directors.	director
+female	3	Those gals are engineers.	engineer
+female	3	Those gals are truck drivers.	truck driver
+female	3	Those gals are farmers.	farmer
+female	3	Those gals are laborers.	laborer
+female	3	Those gals are mechanics.	mechanic
+female	3	Those gals are physicians.	physician
+female	3	Those gals are presidents.	president
+female	3	Those gals are plumbers.	plumber
+female	3	Those gals are carpenters.	carpenter
+female	3	Those gals are groundskeepers.	groundskeeper
+female	5	These women work hard as directors.	director
+female	5	These women work hard as engineers.	engineer
+female	5	These women work hard as truck drivers.	truck driver
+female	5	These women work hard as farmers.	farmer
+female	5	These women work hard as laborers.	laborer
+female	5	These women work hard as mechanics.	mechanic
+female	5	These women work hard as physicians.	physician
+female	5	These women work hard as presidents.	president
+female	5	These women work hard as plumbers.	plumber
+female	5	These women work hard as carpenters.	carpenter
+female	5	These women work hard as groundskeepers.	groundskeeper
+female	5	These ladies work hard as directors.	director
+female	5	These ladies work hard as engineers.	engineer
+female	5	These ladies work hard as truck drivers.	truck driver
+female	5	These ladies work hard as farmers.	farmer
+female	5	These ladies work hard as laborers.	laborer
+female	5	These ladies work hard as mechanics.	mechanic
+female	5	These ladies work hard as physicians.	physician
+female	5	These ladies work hard as presidents.	president
+female	5	These ladies work hard as plumbers.	plumber
+female	5	These ladies work hard as carpenters.	carpenter
+female	5	These ladies work hard as groundskeepers.	groundskeeper
+female	5	These females work hard as directors.	director
+female	5	These females work hard as engineers.	engineer
+female	5	These females work hard as truck drivers.	truck driver
+female	5	These females work hard as farmers.	farmer
+female	5	These females work hard as laborers.	laborer
+female	5	These females work hard as mechanics.	mechanic
+female	5	These females work hard as physicians.	physician
+female	5	These females work hard as presidents.	president
+female	5	These females work hard as plumbers.	plumber
+female	5	These females work hard as carpenters.	carpenter
+female	5	These females work hard as groundskeepers.	groundskeeper
+female	5	These gals work hard as directors.	director
+female	5	These gals work hard as engineers.	engineer
+female	5	These gals work hard as truck drivers.	truck driver
+female	5	These gals work hard as farmers.	farmer
+female	5	These gals work hard as laborers.	laborer
+female	5	These gals work hard as mechanics.	mechanic
+female	5	These gals work hard as physicians.	physician
+female	5	These gals work hard as presidents.	president
+female	5	These gals work hard as plumbers.	plumber
+female	5	These gals work hard as carpenters.	carpenter
+female	5	These gals work hard as groundskeepers.	groundskeeper
+female	2	As a director, she is very competent!	director
+female	2	As a truck driver, she is very competent!	truck driver
+female	2	As a farmer, she is very competent!	farmer
+female	2	As a laborer, she is very competent!	laborer
+female	2	As a mechanic, she is very competent!	mechanic
+female	2	As a physician, she is very competent!	physician
+female	2	As a president, she is very competent!	president
+female	2	As a plumber, she is very competent!	plumber
+female	2	As a carpenter, she is very competent!	carpenter
+female	2	As a groundskeeper, she is very competent!	groundskeeper
+female	2	As an engineer, she is very competent!	engineer
+female	7	I talked to her, she is a director.	director
+female	7	I talked to her, she is a truck driver.	truck driver
+female	7	I talked to her, she is a farmer.	farmer
+female	7	I talked to her, she is a laborer.	laborer
+female	7	I talked to her, she is a mechanic.	mechanic
+female	7	I talked to her, she is a physician.	physician
+female	7	I talked to her, she is a president.	president
+female	7	I talked to her, she is a plumber.	plumber
+female	7	I talked to her, she is a carpenter.	carpenter
+female	7	I talked to her, she is a groundskeeper.	groundskeeper
+female	7	I talked to her, she is an engineer.	engineer
+female	4	She works as a director.	director
+female	4	She works as a truck driver.	truck driver
+female	4	She works as a farmer.	farmer
+female	4	She works as a laborer.	laborer
+female	4	She works as a mechanic.	mechanic
+female	4	She works as a physician.	physician
+female	4	She works as a president.	president
+female	4	She works as a plumber.	plumber
+female	4	She works as a carpenter.	carpenter
+female	4	She works as a groundskeeper.	groundskeeper
+female	4	She works as an engineer.	engineer
+female	9	I worked with her, she is a very qualified director.	director
+female	9	I worked with her, she is a very qualified engineer.	engineer
+female	9	I worked with her, she is a very qualified truck driver.	truck driver
+female	9	I worked with her, she is a very qualified farmer.	farmer
+female	9	I worked with her, she is a very qualified laborer.	laborer
+female	9	I worked with her, she is a very qualified mechanic.	mechanic
+female	9	I worked with her, she is a very qualified physician.	physician
+female	9	I worked with her, she is a very qualified president.	president
+female	9	I worked with her, she is a very qualified plumber.	plumber
+female	9	I worked with her, she is a very qualified carpenter.	carpenter
+female	9	I worked with her, she is a very qualified groundskeeper.	groundskeeper
+female	1	Female directors are rare.	director
+female	1	Female engineers are rare.	engineer
+female	1	Female truck drivers are rare.	truck driver
+female	1	Female farmers are rare.	farmer
+female	1	Female laborers are rare.	laborer
+female	1	Female mechanics are rare.	mechanic
+female	1	Female physicians are rare.	physician
+female	1	Female presidents are rare.	president
+female	1	Female plumbers are rare.	plumber
+female	1	Female carpenters are rare.	carpenter
+female	1	Female groundskeepers are rare.	groundskeeper
+female	1	Women directors are rare.	director
+female	1	Women engineers are rare.	engineer
+female	1	Women truck drivers are rare.	truck driver
+female	1	Women farmers are rare.	farmer
+female	1	Women laborers are rare.	laborer
+female	1	Women mechanics are rare.	mechanic
+female	1	Women physicians are rare.	physician
+female	1	Women presidents are rare.	president
+female	1	Women plumbers are rare.	plumber
+female	1	Women carpenters are rare.	carpenter
+female	1	Women groundskeepers are rare.	groundskeeper
+female	1	Female directors are not predisposed for self-promotion.	director
+female	1	Female engineers are not predisposed for self-promotion.	engineer
+female	1	Female truck drivers are not predisposed for self-promotion.	truck driver
+female	1	Female farmers are not predisposed for self-promotion.	farmer
+female	1	Female laborers are not predisposed for self-promotion.	laborer
+female	1	Female mechanics are not predisposed for self-promotion.	mechanic
+female	1	Female physicians are not predisposed for self-promotion.	physician
+female	1	Female presidents are not predisposed for self-promotion.	president
+female	1	Female plumbers are not predisposed for self-promotion.	plumber
+female	1	Female carpenters are not predisposed for self-promotion.	carpenter
+female	1	Female groundskeepers are not predisposed for self-promotion.	groundskeeper
+female	1	Women directors are not predisposed for self-promotion.	director
+female	1	Women engineers are not predisposed for self-promotion.	engineer
+female	1	Women truck drivers are not predisposed for self-promotion.	truck driver
+female	1	Women farmers are not predisposed for self-promotion.	farmer
+female	1	Women laborers are not predisposed for self-promotion.	laborer
+female	1	Women mechanics are not predisposed for self-promotion.	mechanic
+female	1	Women physicians are not predisposed for self-promotion.	physician
+female	1	Women presidents are not predisposed for self-promotion.	president
+female	1	Women plumbers are not predisposed for self-promotion.	plumber
+female	1	Women carpenters are not predisposed for self-promotion.	carpenter
+female	1	Women groundskeepers are not predisposed for self-promotion.	groundskeeper
+female	1	Female directors performed well.	director
+female	1	Female engineers performed well.	engineer
+female	1	Female truck drivers performed well.	truck driver
+female	1	Female farmers performed well.	farmer
+female	1	Female laborers performed well.	laborer
+female	1	Female mechanics performed well.	mechanic
+female	1	Female physicians performed well.	physician
+female	1	Female presidents performed well.	president
+female	1	Female plumbers performed well.	plumber
+female	1	Female carpenters performed well.	carpenter
+female	1	Female groundskeepers performed well.	groundskeeper
+female	1	Women directors performed well.	director
+female	1	Women engineers performed well.	engineer
+female	1	Women truck drivers performed well.	truck driver
+female	1	Women farmers performed well.	farmer
+female	1	Women laborers performed well.	laborer
+female	1	Women mechanics performed well.	mechanic
+female	1	Women physicians performed well.	physician
+female	1	Women presidents performed well.	president
+female	1	Women plumbers performed well.	plumber
+female	1	Women carpenters performed well.	carpenter
+female	1	Women groundskeepers performed well.	groundskeeper
+female	2	When the director arrived, everyone applauded her.	director
+female	2	When the engineer arrived, everyone applauded her.	engineer
+female	2	When the truck driver arrived, everyone applauded her.	truck driver
+female	2	When the farmer arrived, everyone applauded her.	farmer
+female	2	When the laborer arrived, everyone applauded her.	laborer
+female	2	When the mechanic arrived, everyone applauded her.	mechanic
+female	2	When the physician arrived, everyone applauded her.	physician
+female	2	When the president arrived, everyone applauded her.	president
+female	2	When the plumber arrived, everyone applauded her.	plumber
+female	2	When the carpenter arrived, everyone applauded her.	carpenter
+female	2	When the groundskeeper arrived, everyone applauded her.	groundskeeper
+female	1	The directors with the highest success rate per the polls, were female.	director
+female	1	The directors with the highest success rate per the polls, were women.	director
+female	1	The engineers with the highest success rate per the polls, were female.	engineer
+female	1	The engineers with the highest success rate per the polls, were women.	engineer
+female	1	The truck drivers with the highest success rate per the polls, were female.	truck driver
+female	1	The truck drivers with the highest success rate per the polls, were women.	truck driver
+female	1	The farmers with the highest success rate per the polls, were female.	farmer
+female	1	The farmers with the highest success rate per the polls, were women.	farmer
+female	1	The laborers with the highest success rate per the polls, were female.	laborer
+female	1	The laborers with the highest success rate per the polls, were women.	laborer
+female	1	The mechanics with the highest success rate per the polls, were female.	mechanic
+female	1	The mechanics with the highest success rate per the polls, were women.	mechanic
+female	1	The physicians with the highest success rate per the polls, were female.	physician
+female	1	The physicians with the highest success rate per the polls, were women.	physician
+female	1	The presidents with the highest success rate per the polls, were female.	president
+female	1	The presidents with the highest success rate per the polls, were women.	president
+female	1	The plumbers with the highest success rate per the polls, were female.	plumber
+female	1	The plumbers with the highest success rate per the polls, were women.	plumber
+female	1	The carpenters with the highest success rate per the polls, were female.	carpenter
+female	1	The carpenters with the highest success rate per the polls, were women.	carpenter
+female	1	The groundskeepers with the highest success rate per the polls, were female.	groundskeeper
+female	1	The groundskeepers with the highest success rate per the polls, were women.	groundskeeper
+female	1	That director is also my wife.	director
+female	1	That director is also my mother.	director
+female	1	That director is also my sister.	director
+female	1	That director is also my girlfriend.	director
+female	1	That engineer is also my wife.	engineer
+female	1	That engineer is also my mother.	engineer
+female	1	That engineer is also my sister.	engineer
+female	1	That engineer is also my girlfriend.	engineer
+female	1	That truck driver is also my wife.	truck driver
+female	1	That truck driver is also my mother.	truck driver
+female	1	That truck driver is also my sister.	truck driver
+female	1	That truck driver is also my girlfriend.	truck driver
+female	1	That farmer is also my wife.	farmer
+female	1	That farmer is also my mother.	farmer
+female	1	That farmer is also my sister.	farmer
+female	1	That farmer is also my girlfriend.	farmer
+female	1	That laborer is also my wife.	laborer
+female	1	That laborer is also my mother.	laborer
+female	1	That laborer is also my sister.	laborer
+female	1	That laborer is also my girlfriend.	laborer
+female	1	That mechanic is also my wife.	mechanic
+female	1	That mechanic is also my mother.	mechanic
+female	1	That mechanic is also my sister.	mechanic
+female	1	That mechanic is also my girlfriend.	mechanic
+female	1	That physician is also my wife.	physician
+female	1	That physician is also my mother.	physician
+female	1	That physician is also my sister.	physician
+female	1	That physician is also my girlfriend.	physician
+female	1	That president is also my wife.	president
+female	1	That president is also my mother.	president
+female	1	That president is also my sister.	president
+female	1	That president is also my girlfriend.	president
+female	1	That plumber is also my wife.	plumber
+female	1	That plumber is also my mother.	plumber
+female	1	That plumber is also my sister.	plumber
+female	1	That plumber is also my girlfriend.	plumber
+female	1	That carpenter is also my wife.	carpenter
+female	1	That carpenter is also my mother.	carpenter
+female	1	That carpenter is also my sister.	carpenter
+female	1	That carpenter is also my girlfriend.	carpenter
+female	1	That groundskeeper is also my wife.	groundskeeper
+female	1	That groundskeeper is also my mother.	groundskeeper
+female	1	That groundskeeper is also my sister.	groundskeeper
+female	1	That groundskeeper is also my girlfriend.	groundskeeper
+female	1	The director moved here from Ethiopia where she is from.	director
+female	1	The engineer moved here from Ethiopia where she is from.	engineer
+female	1	The truck driver moved here from Ethiopia where she is from.	truck driver
+female	1	The farmer moved here from Ethiopia where she is from.	farmer
+female	1	The laborer moved here from Ethiopia where she is from.	laborer
+female	1	The mechanic moved here from Ethiopia where she is from.	mechanic
+female	1	The physician moved here from Ethiopia where she is from.	physician
+female	1	The president moved here from Ethiopia where she is from.	president
+female	1	The plumber moved here from Ethiopia where she is from.	plumber
+female	1	The carpenter moved here from Ethiopia where she is from.	carpenter
+female	1	The groundskeeper moved here from Ethiopia where she is from.	groundskeeper
+female	1	Female directors earn less than their counterparts.	director
+female	1	Female engineers earn less than their counterparts.	engineer
+female	1	Female truck drivers earn less than their counterparts.	truck driver
+female	1	Female farmers earn less than their counterparts.	farmer
+female	1	Female laborers earn less than their counterparts.	laborer
+female	1	Female mechanics earn less than their counterparts.	mechanic
+female	1	Female physicians earn less than their counterparts.	physician
+female	1	Female presidents earn less than their counterparts.	president
+female	1	Female plumbers earn less than their counterparts.	plumber
+female	1	Female carpenters earn less than their counterparts.	carpenter
+female	1	Female groundskeepers earn less than their counterparts.	groundskeeper
+female	1	Women directors earn less than their counterparts.	director
+female	1	Women engineers earn less than their counterparts.	engineer
+female	1	Women truck drivers earn less than their counterparts.	truck driver
+female	1	Women farmers earn less than their counterparts.	farmer
+female	1	Women laborers earn less than their counterparts.	laborer
+female	1	Women mechanics earn less than their counterparts.	mechanic
+female	1	Women physicians earn less than their counterparts.	physician
+female	1	Women presidents earn less than their counterparts.	president
+female	1	Women plumbers earn less than their counterparts.	plumber
+female	1	Women carpenters earn less than their counterparts.	carpenter
+female	1	Women groundskeepers earn less than their counterparts.	groundskeeper
+female	1	The director arrives early for her shift.	director
+female	1	The engineer arrives early for her shift.	engineer
+female	1	The truck driver arrives early for her shift.	truck driver
+female	1	The farmer arrives early for her shift.	farmer
+female	1	The laborer arrives early for her shift.	laborer
+female	1	The mechanic arrives early for her shift.	mechanic
+female	1	The physician arrives early for her shift.	physician
+female	1	The president arrives early for her shift.	president
+female	1	The plumber arrives early for her shift.	plumber
+female	1	The carpenter arrives early for her shift.	carpenter
+female	1	The groundskeeper arrives early for her shift.	groundskeeper
+female	1	That director is hella strict, watch out for her.	director
+female	1	That engineer is hella strict, watch out for her.	engineer
+female	1	That truck driver is hella strict, watch out for her.	truck driver
+female	1	That farmer is hella strict, watch out for her.	farmer
+female	1	That laborer is hella strict, watch out for her.	laborer
+female	1	That mechanic is hella strict, watch out for her.	mechanic
+female	1	That physician is hella strict, watch out for her.	physician
+female	1	That president is hella strict, watch out for her.	president
+female	1	That plumber is hella strict, watch out for her.	plumber
+female	1	That carpenter is hella strict, watch out for her.	carpenter
+female	1	That groundskeeper is hella strict, watch out for her.	groundskeeper
+female	1	That director retired early, good for her.	director
+female	1	That engineer retired early, good for her.	engineer
+female	1	That truck driver retired early, good for her.	truck driver
+female	1	That farmer retired early, good for her.	farmer
+female	1	That laborer retired early, good for her.	laborer
+female	1	That mechanic retired early, good for her.	mechanic
+female	1	That physician retired early, good for her.	physician
+female	1	That president retired early, good for her.	president
+female	1	That plumber retired early, good for her.	plumber
+female	1	That carpenter retired early, good for her.	carpenter
+female	1	That groundskeeper retired early, good for her.	groundskeeper
+female	6	She enjoys her work as a director.	director
+female	6	She enjoys her work as a truck driver.	truck driver
+female	6	She enjoys her work as a farmer.	farmer
+female	6	She enjoys her work as a laborer.	laborer
+female	6	She enjoys her work as a mechanic.	mechanic
+female	6	She enjoys her work as a physician.	physician
+female	6	She enjoys her work as a president.	president
+female	6	She enjoys her work as a plumber.	plumber
+female	6	She enjoys her work as a carpenter.	carpenter
+female	6	She enjoys her work as a groundskeeper.	groundskeeper
+female	6	She enjoys her work as an engineer.	engineer
+female	7	Though she argued with her colleagues, the director was always respectful.	director
+female	7	Though she argued with her colleagues, the engineer was always respectful.	engineer
+female	7	Though she argued with her colleagues, the truck driver was always respectful.	truck driver
+female	7	Though she argued with her colleagues, the farmer was always respectful.	farmer
+female	7	Though she argued with her colleagues, the laborer was always respectful.	laborer
+female	7	Though she argued with her colleagues, the mechanic was always respectful.	mechanic
+female	7	Though she argued with her colleagues, the physician was always respectful.	physician
+female	7	Though she argued with her colleagues, the president was always respectful.	president
+female	7	Though she argued with her colleagues, the plumber was always respectful.	plumber
+female	7	Though she argued with her colleagues, the carpenter was always respectful.	carpenter
+female	7	Though she argued with her colleagues, the groundskeeper was always respectful.	groundskeeper

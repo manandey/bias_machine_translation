@@ -1,0 +1,600 @@
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer
+female	3	Kansai Telecasting Corporation announcer Natsumi Sugimoto is a classmate of her college age .	announcer
+female	13	"In several episodes of the TV series "" M*A*S*H "" a North Korean announcer calling herself "" Seoul City Sue "" is heard on the radio ( rebroadcast over the camp 's PA ) ."	announcer
+female	2	"When the announcer pointed out her error , she quickly backtracked : """	announcer
+male	23	His broadcast partner at WLVL , Frank Williams , would go on to a long career as a play - by - play announcer himself , spending over 30 years at WESB in Bradford , Pennsylvania , though Williams never advanced beyond high school sports .	announcer
+male	7	"Although the "" I Love Lucy "" announcer and the opening credits of "" The Lucy - Desi Comedy Hour "" gave his stage name as "" Little Ricky "" , in his post-""Lucy "" acting career , particularly his four - year irregular stint on "" The Andy Griffith Show "" , he was billed as Richard Keith ."	announcer
+male	2	Professional wrestling announcer and Oklahoma native Jim Ross uses the fight song as his entrance theme .	announcer
+male	5	During this sequence , the announcer , shocked at what he sees , kills himself off - screen .	announcer
+male	3	"The "" Roving Announcer "" , as he was known , worked his way up to become the station 's special events director , while still attending to his on - air work ."	announcer
+male	1	Radio announcer Marty Glickman instructed students in the sports department after his retirement .	announcer
+male	43	In recognition of Joe Biden being selected as the Democratic Vice Presidential nominee , this series promoted tourist attractions such as Independence Hall and the Franklin Institute in Pennsylvania , which is next to Delaware , or , in another installment , the announcer described the Battle of New Castle , and then admitted that he made it up because he knows nothing about Delaware .	announcer
+male	7	Just after his arrival , a TV announcer is found dead , her body hanging from an antenna ; Saki Konishi , the high school student who had discovered the body , is later found dead herself , hung upside - down from a telephone pole .	announcer
+male	18	"Former "" Family Feud "" announcer Burton Richardson , Paul Boland , and former "" Supermarket Sweep "" announcer Randy West substituted for Roddy during his illnesses ."	announcer

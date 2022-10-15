@@ -1,0 +1,600 @@
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer
+female	4	Her father was a laborer and her mother a registered nurse , and both served in the United States Air Force .	laborer
+female	8	Her father , W.S. Leslie , was a laborer and her mother , Louise Leslie , was a domestic worker .	laborer
+female	5	Her father was a farm laborer and her parents were of Indigenous Mexican ancestry .	laborer
+female	6	Her father was a meal company laborer and her mother was a doctor 's stenographer and office assistant .	laborer
+female	11	Her father , Demetrio del Hoyo , was a farm - laborer and her mother , Carmen Alonso , a home - maker .	laborer
+female	2	His fellow laborer Martin Bucer had known Idelette and recommended her to Calvin in confidence that she would fit the bill .	laborer
+female	3	As a child laborer herself , Ma .	laborer
+male	17	These works are meant to elucidate the nature of the laborer within Capitalist society , how the laborer sells his physical labor and thus his body , political issues such as immigration and continual immigrant poverty in Capitalist countries , the nature of work in Capitalist society , and the isolation of economic classes .	laborer
+male	7	On 28 December 2008 , a Palestinian laborer working in the Israeli settlement of Modi'in Illit struck his supervisor on the head with a sledgehammer , stabbed and injured four civilians , and beat up several others .	laborer
+male	11	"The study is cast as one of "" the trained Negro laborer , his education , opportunity , wages and work "" ."	laborer
+male	12	His father , Emilio , was a Spaniard who worked as a laborer and his mother , of ethnic German extraction , was born in Germany .	laborer
+male	3	Taylor believed the laborer was worthy of his hire , and pay was linked to productivity .	laborer

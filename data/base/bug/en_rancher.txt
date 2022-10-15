@@ -1,0 +1,400 @@
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher
+female	8	Maggie Palmer ( Chelah Horsdal ) , a rancher in negotiations with Durant , introduces herself to Cullen .	rancher
+female	4	For five years , rancher Colby Jansen has been the sole protector of her younger half - siblings , and with fierce determination and work she has kept her family together and the ranch operational .	rancher
+female	25	Ann Bassett ( May 12 , 1878 – May 8 , 1956 ) , also known as Queen Ann Bassett , was a prominent female rancher of the Old West , and with her sister Josie Bassett , was an associate of outlaws , particularly Butch Cassidy 's Wild Bunch .	rancher
+female	7	During her final term , Chenoweth married rancher and author Wayne Hage in Boise in 1999 and changed her name to Helen Chenoweth - Hage .	rancher
+male	7	The train is ambushed by the other rancher and his men .	rancher
+male	8	Jim Douglass ( Gregory Peck ) is a rancher pursuing four outlaws he is convinced murdered his wife six months before .	rancher
+male	24	Dave 1 is a priest in Las Vegas and weds several couples inside the chapel including a loan shark and his bride , a rancher and his bride , and an older couple .	rancher
+male	1	A rancher could reclaim his horses if he paid the back fees and fines , but in practice , many were relinquished .	rancher

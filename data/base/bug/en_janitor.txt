@@ -1,0 +1,550 @@
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor
+female	7	Arthur Gilpin , the African - American janitor who discovered the body , is arrested and charged with her murder .	janitor
+female	13	Her parents were immigrants from Jamaica , her father David working as a janitor and her mother working as a maid .	janitor
+female	14	She grew up in San Francisco Chinatown , where her father worked as a janitor and her mother as a seamstress to support the family .	janitor
+female	1	The janitor and The Devil watch as Porhowski struggles with herself about killing the man , but ultimately does not , shortly thereafter she is knocked out .	janitor
+female	5	Cass ' father was a janitor and her mother a domestic worker .	janitor
+female	16	Marin 's family settled in Huntington Park , California where her father obtained work as a janitor and her mother as a seamstress .	janitor
+female	12	"In the case , "" Brooks v. Industries "" , a female janitor working in a male prison lost her position due to gender in prison issues ."	janitor
+female	12	Set in the distant future , the film centers on a lowly janitor -LRB- Mila Kunis -RRB- who learns that she has a great genetic destiny .	janitor
+male	4	Trish helped Pal the janitor clear himself of murder charges by bringing him to the Zendik commune , where he learned kung-fu and how to speak intelligibly and avenge himself .	janitor
+male	14	A peripheral fallout of this agreement was that the academy 's live - in janitor , Felix Wesstrom , lost his living quarters .	janitor
+male	15	Kammerer 's psyche was evidently decaying ; he was barely scraping by , helping a janitor clean his building on Morton Street in exchange for rent .	janitor

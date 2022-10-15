@@ -1,0 +1,450 @@
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker
+female	33	After the sudden death of his father Johannes Urbanus , the couture prodigy aged six started sewing under the supervision of his mother , Gerbrecht Christina Naudé , a skilled seamstress and talented dressmaker who was renowned in her community for her excellent sewing skills .	dressmaker
+female	5	Her mother was a skilled dressmaker and her father was Tampa 's first black policeman in the late 1870s and a county deputy sheriff in 1895 .	dressmaker
+female	12	Set in Liverpool and Lancashire during World War II , a repressed dressmaker and her sister struggle looking after their 17-year - old niece , who is having a delusional affair with an American soldier .	dressmaker
+female	20	The four central characters are from different social groups : June works for the civil service ; Donalda is a dressmaker , and Senga her employer ; and Harry ( Harriet ) is an aristocratic English artist and dominatrix .	dressmaker
+female	1	The dressmaker , a Christian , and her Jewish boyfriend , were less fortunate .	dressmaker
+female	2	A talented dressmaker and designer , Board often made her own clothes , including a pink coat she wore to receive the MBE from Queen Elizabeth II in January 1970 .	dressmaker
+female	11	After her death in 1920 , her daughter Mary , a dressmaker , took up the business and dedicated herself to its traditional skills until her own death in 1940 at the age of eighty - two .	dressmaker
+male	8	It is about the complex relationship between a dressmaker ( played by Daniel Day - Lewis ) and his muse ( played by Vicky Krieps ) .	dressmaker
+male	4	His mother was a dressmaker and his father , a cabinet maker and carpenter .	dressmaker

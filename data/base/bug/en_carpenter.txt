@@ -1,0 +1,1000 @@
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter
+female	4	Her stepfather is a carpenter and her father , who died , worked in an oil refinery .	carpenter
+female	4	Her father was a carpenter and her mother a housewife .	carpenter
+female	2	The ships carpenter reported that she would not last more than six months .	carpenter
+female	17	According to Graves , a pregnant Mary is compelled to pretend to marry an old , pious carpenter , Joseph , to protect herself and the unborn Jesus ..	carpenter
+female	5	Her father worked as a carpenter and her mother was a teacher .	carpenter
+male	8	His father , Mr. Sutchai , is a carpenter and his mother Ms. Somphon , is a practical nurse .	carpenter
+male	17	Wilhelm Maybach was born in Heilbronn , Baden - Württemberg in 1846 , the son of a carpenter and his wife Luise .	carpenter
+male	9	Osewold the Reeve , who had originally been a carpenter himself , shouts out his immediate objection to such ridicule , and protests that the tale will insult carpenters and wives , but the Miller insists on proceeding with his tale .	carpenter
+male	1	The carpenter reported that he had heard machinery operating towards the stern of the ship , but it was not clear whether this might have been the site diesel generator which ran at all times .	carpenter
+male	2	Though a carpenter will typically fashion handles and woodblocks and set and sharpen his blades himself , the blades themselves are forged by steel smiths and provided unmounted to the carpenter .	carpenter
+male	13	[ [ Richard Hauptmann ] ] , a 34-year - old German immigrant carpenter , was arrested near his home in [ [ the Bronx ] ] , New York , on , 1934 , after paying for gasoline with one of the ransom bills .	carpenter
+male	2	A 30-year-old carpenter suffered accidental piercing of his jaw by a 3-inch nail from a nail gun .	carpenter
+male	11	The company was established in 1907 by a Norwegian immigrant and carpenter Carl E. Overaa , who committed himself to rebuilding the Bay Area after the San Francisco earthquake of 1906 .	carpenter
+male	17	This artisanal mastery was becoming an anachronism by the time of Cornett 's life , yet the carpenter stubbornly kept at his craft , enduring considerable poverty in consequence .	carpenter
+male	1	"The carpenter aboard "" Reniera e Soderina "" confronted his captain , telling him to surrender or face a mutiny ."	carpenter
+male	36	The only businesses that flourish serve the gin industry : gin sellers ; a distiller ( the aptly named Kilman ) ; the pawnbroker where the avaricious Mr. Gripe greedily takes the vital possessions ( the carpenter offers his saw and the housewife her cooking utensils ) of the alcoholic residents of the street in return for a few pennies to feed their habit ; and the undertaker , for whom Hogarth implies at least a handful of new customers from this scene alone .	carpenter
+male	3	But the young carpenter with his throat cut was able to drag himself to the village to alert them and describe his killers .	carpenter
+male	7	His father , George , was a carpenter and his mother , Theano , worked as a maid .	carpenter
+male	16	He was born in Lac des Deux - Montagnes near Oka , the son of a carpenter and his wife .	carpenter
+male	14	"Stayrook , who hails from San Diego , California , is an ex - carpenter , and earned the nickname "" The Rock "" because of his sturdy build and solid position at the foul - line ."	carpenter

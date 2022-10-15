@@ -1,0 +1,900 @@
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut
+female	41	"Douglas has exhibited at the Venice Biennale previously , most recently in 2019 where he debuted the work the two - channel video installation "" Doppelgänger "" ( 2019 ) , "" set in an alternate present in which a solitary astronaut and her other - world counterpart each arrives ' home ' to find that everything is the reverse of what she once knew ."	astronaut
+female	12	The moon landings inspired Ghez to want to become the first female astronaut and her mother supported her goal .	astronaut
+female	3	The video 's astronaut is played by her father , Eric Poxleitner .	astronaut
+female	8	The South Korean Science Ministry stated that the astronaut had a minor injury to her neck muscles and had bruised her spinal column .	astronaut
+female	1	"Fellow astronaut Steven Lindsey , Chief of the Astronaut Office at the Johnson Space Center in Houston , stated on her retirement : "" Heide has been an outstanding astronaut , contributing significantly to the Space Shuttle and Space Station programs ."	astronaut
+female	39	"Bergey 's science fiction covers , sometimes described as "" Bim , BEM , Bum , "" usually featured a woman being menaced by a Bug - Eyed Monster , alien , or robot , with an heroic male astronaut coming to her assistance ."	astronaut
+male	8	In the fifth and sixth seasons , NASA astronaut Michael J. Massimino played himself multiple times in the role of Howard 's fellow astronaut .	astronaut
+male	4	Before his death , astronaut Scott Carpenter was also on the executive advisory board .	astronaut
+male	25	These shifts cause various circumstances to change for Bado throughout the story , including the disappearance of his spacecraft , the disappearance of a fellow astronaut , the appearance of other space travellers , and eventually his release back into a society with a history different from the history he knows .	astronaut
+male	5	The improvisation had the MMU astronaut use his hands to grab hold of an SMM solar array and null the rates by a push from MMU 's thrusters .	astronaut
+male	1	An astronaut , Major Robert Gaines , is orbiting Earth in his space capsule .	astronaut
+male	21	American actor Tom Kenny guest stars in the episode , voicing recurring character Yancy Fry , Jr. , as well as astronaut Buzz Aldrin , voicing himself .	astronaut
+male	1	"The astronaut / cosmonaut leaves his spacecraft and sights other footsteps on the Moon leading him to an old phonograph , then a crashed rocket with a plaque reading Jules Verne 's "" From the Earth to the Moon "" ."	astronaut
+male	4	The storyline features an astronaut and his dog who explore an Egyptian tomb ( as revealed in the opening sequence ) and need to find the Pharaoh 's Jewel by solving puzzles spread over three levels .	astronaut
+male	14	If flexing a joint reduces the volume of the space suit , then the astronaut must do extra work every time he bends that joint , and he has to maintain a force to keep the joint bent .	astronaut
+male	22	The fruit of that effort is the concept album The Space Between Us , whose narrative evokes the interstellar expanse between an astronaut on a mission and his fiancée back on Earth .	astronaut
+male	1	One astronaut , on his first flight , only took note of the LF after being told to look out for them .	astronaut
+male	1	"Fellow astronaut Chris Hadfield describes Ross in his autobiography , "" An Astronaut 's Guide to Life on Earth "" , as "" the embodiment of the trustworthy , loyal , courteous and brave astronaut archetype . """	astronaut

@@ -1,0 +1,300 @@
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff
+female	12	Els is denounced as the instigator of the murder , and the bailiff demands her immediate execution .	bailiff
+male	3	He ordered the bailiff of the castle before he left for Jutland to get all the brothers out of the friary , which he did .	bailiff
+male	1	The bailiff shakes his head and stares at him .	bailiff
+male	2	The farm bailiff is employed by the proprietor and his managerial duties can include collecting rent , taxes and supervising both farm operations and labourers .	bailiff
+male	20	The bailiff challenged him , and they both tried to jump a boat ; Andras Baive succeeded , but the bailiff caught his heel .	bailiff
+male	1	Court bailiff / civil process duties are provided by a court - appointed sheriff and his employees , none of whom have law enforcement powers .	bailiff

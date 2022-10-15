@@ -1,0 +1,300 @@
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician
+female	8	purposefully in their home so that the nearby electrician , Karuppu ( Ganja Karuppu ) , can come to fix them , and at least she gets a chance to speak to someone .	electrician
+female	1	"An electrician , who was the last known person to speak to Penny , described her demeanour as "" normal and casual "" ."	electrician
+female	16	Target sentences contained a reflexive pronoun that referred to the role name ( e.g. , The electrician taught herself ... ) .	electrician
+female	16	Rachel embarks on a promising if - at - first feisty relationship with the cute young electrician who 's begun working with her dad .	electrician
+male	15	On 26 April , an accidental small fire broke out on the roof and an electrician injured his foot by dropping a manhole cover on it .	electrician
+male	8	Baker worked for a time as an apprentice electrician then through Morse ' s influence he managed to secure a position with the Birmingham Repertory Theatre in 1944 .	electrician

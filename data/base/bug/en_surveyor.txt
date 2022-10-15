@@ -1,0 +1,450 @@
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor
+female	14	"Based at Seattle , Washington , and nicknamed "" Old Workhouse , "" "" Surveyor "" spent her career in the Pacific Ocean and Arctic Ocean , operating as far north as the Beaufort Sea off Alaska and as far south as the Palmer Peninsula in Antarctica ; she conducted hydrographic surveys in such widely separated areas as Norton Sound in Alaska and American Samoa ."	surveyor
+female	9	"During her Coast and Geodetic Survey career , "" Surveyor "" had occasion to assist mariners in distress ."	surveyor
+female	9	"The attack came from an angle at which "" Surveyor "" could not use her carronades ."	surveyor
+female	1	The surveyor who examined Scammel prior to her entering service noted that `` she had two masts , one deck , a short quarter deck , low waists with rails fore and aft , and was schooner rigged .	surveyor
+female	4	Her father was a surveyor and her mother was an artist and writer .	surveyor
+male	6	"It was assigned in 1888 when surveyor Charles Crossland referred to the pastoral leases of Samuel Richard Hamersley as his "" north beach coastal run "" ."	surveyor
+male	8	Three years later , he became the city surveyor himself .	surveyor
+male	9	His father , Cecil Arthur Cowley was a chartered surveyor , and his mother Mildred Sarah Nash , was from a farming family .	surveyor
+male	5	"In 1670 , the German surveyor and physician John Lederer mentioned them in his "" Discoveries "" ."	surveyor

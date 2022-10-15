@@ -1,0 +1,700 @@
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist
+female	14	The specific name honors Elizabeth P. Bruns , an early 20th - century Russian geologist noted for her extensive and important research of the Upper Precambrian stratigraphy of European Russia .	geologist
+female	2	"The American geologist Harry Hess commanded the USS "" Cape Johnson "" during her commission ."	geologist
+female	8	Under her direction , at least one experienced geologist established an office in all major American cities such as Los Angeles , San Francisco , and Seattle .	geologist
+male	13	"In his entertaining book "" The Shoe and Canoe "" , the English geologist , John Bigsby , relates the character of these Montreal fur traders in their early days :"	geologist
+male	21	Meanwhile , Lindsley took trips with Gerard Troost to look for fossils in the Tennessee countryside , and considered becoming a geologist himself .	geologist
+male	45	In one of the most reliable accounts , a geologist killed a large anaconda and measured it using a four-meter rod , reporting it as three rods long -LRB- -RRB- ; however , the information was not published until many years later , and the geologist later suggested he may have misremembered and the anaconda could have been only two rods long -LRB- -RRB- .	geologist
+male	4	Afterwards another local amateur geologist , the local canon priest Theodorus Joannes Godding ( 1722–1797 ) , claimed his rights as landowner and forced Hoffmann to relinquish his ownership through a lawsuit , won by influencing the court .	geologist
+male	9	His father Robert Earl Keen Sr . was a geologist and his mother an attorney .	geologist
+male	5	"In the early 1880s noted geologist and naturalist Alfred William Howitt mapped the area , with his paper , "" The Rocks of Noyang "" , being read to the Royal Society of Victoria in 1883 ."	geologist
+male	1	"Russian geologist and science fiction writer Vladimir Obruchev fictionalized this phantom island in his novel "" Sannikov Land "" ( 1926 ) ."	geologist
+male	1	A geologist at Brown University conducted his own surveys beginning in 1909 and the state was included in a combined geologic map with Massachusetts in 1917 .	geologist
+male	9	Robert Roy Coats ( 1910–1995 ) was an American geologist known for his studies of the Aleutian Islands and his exhaustive report of Elko County , Nevada .	geologist
+male	16	John Farey , sr was a polymath , well known today for his work as a geologist and for his investigations of mathematics .	geologist
+male	6	Higgins was a self - taught geologist and from his extensive studies and observation of surface indications , he concluded that an abundance of cheap fuel was available at Spindletop .	geologist

@@ -1,0 +1,450 @@
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
+female	13	After her marriage in London in April 1787 to Thomas Park , an engraver turned antiquarian and man of letters , she ended her career as a performer , although she earned even more fame as composer and teacher .	engraver
+female	1	"An engraver , photographer and former journalist for the "" Brighton Argus "" , he shared her interest in the occult , and together they developed a magical system based upon Luciferianism , the veneration of the deity Lucifer , or Lumiel , whom they considered to be a benevolent angelic deity ."	engraver
+male	11	Hedley Fitton ( – 19 July 1929 ) was an England engraver and printmaker noted mainly for his architectural etchings .	engraver
+male	6	The body was added by the engraver himself , as was common practice .	engraver
+male	3	The Mint chief engraver alleged that he could take no action with respect to the double eagle .	engraver
+male	1	The engraver Bernard Baron ( 1700 - 1762 ) was another of his pupils who gained distinction in his profession .	engraver
+male	3	Hogarth was an engraver himself and disliked this method , so , unusually , he produced the paintings for Marriage à - la - mode already reversed so the engraver could directly copy them .	engraver
+male	1	The engraver Agostino Veneziano moved to Rome in his twenties , and Giulio Campagnola and his adoptive son Domenico Campagnola are the main 16th - century artists who concentrated on printmaking and remained in the Republic of Venice , apparently mostly in Padua .	engraver
+male	3	was a Bavarian engraver who is known for his many depictions of important places in the Bavaria of his day , including cityscapes and views of stately homes , castles and monasteries .	engraver
