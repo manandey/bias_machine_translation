@@ -1,5 +1,5 @@
 # Gender bias in Machine Translation
-This repository contains the code and data of the paper [How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts.](https://arxiv.org/abs/2205.10762)
+This repository contains the code and data of the paper [How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts.](https://aclanthology.org/2022.findings-emnlp.143/)
 
 ## Overview
 In this work, we investigate whether NMT models can be instructed to fix their bias during inference using targeted, guided instructions as contexts. By translating relevant contextual sentences during inference along with the input, we observe large improvements in reducing the gender bias in translations, across three popular test suites (WinoMT, BUG, SimpleGen). We further propose a novel metric to assess several large pre-trained models (OPUS-MT, M2M-100) on their sensitivity towards using contexts during translation to correct their biases. Our approach requires no fine-tuning and thus can be used easily in production systems to de-bias translations from stereotypical gender-occupation bias. We hope our method, along with our metric, can be used to build better, bias-free translation systems.
@@ -65,16 +65,19 @@ The evaluation results are available here: `/results/`
 
 ## Citation
 If you find this work useful, please cite the following reference:
-```bibtex
-@misc{https://doi.org/10.48550/arxiv.2205.10762,
-  doi = {10.48550/ARXIV.2205.10762},
-  url = {https://arxiv.org/abs/2205.10762},
-  author = {Sharma, Shanya and Dey, Manan and Sinha, Koustuv},
-  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7, 68T50},
-  title = {How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts},
-  publisher = {arXiv},
-  year = {2022}, 
-  copyright = {Creative Commons Attribution 4.0 International}
+```
+@inproceedings{sharma-etal-2022-sensitive,
+    title = "How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts.",
+    author = "Sharma, Shanya  and
+      Dey, Manan  and
+      Sinha, Koustuv",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.143",
+    pages = "1968--1984",
+    abstract = "Neural Machine Translation systems built on top of Transformer-based architectures are routinely improving the state-of-the-art in translation quality according to word-overlap metrics. However, a growing number of studies also highlight the inherent gender bias that these models incorporate during training, which reflects poorly in their translations. In this work, we investigate whether these models can be instructed to fix their bias during inference using targeted, guided instructions as contexts. By translating relevant contextual sentences during inference along with the input, we observe large improvements in reducing the gender bias in translations, across three popular test suites (WinoMT, BUG, SimpleGen). We further propose a novel metric to assess several large pre-trained models (OPUS-MT, M2M-100) on their sensitivity towards using contexts during translation to correct their biases. Our approach requires no fine-tuning, and thus can be used easily in production systems to de-bias translations from stereotypical gender-occupation bias. We hope our method, along with our metric, can be used to build better, bias-free translation systems.",
 }
-
 ```
